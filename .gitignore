@@ -10,3 +10,6 @@ __pycache__/
 venv/
 env/
 .venv/
+
+# xml responses
+tmp_xml_responses/
