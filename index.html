@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NYC Spending Explorer - FY2025</title>
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Barlow+Condensed:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/visualization.css" />
+  </head>
+
+  <body>
+    <div id="canvas-container" class="main-view">
+      <!-- Header -->
+      <div class="header">
+        <div class="title">
+          An Interactive Visualization of NYC Spending Data
+        </div>
+      </div>
+
+      <!-- Navigation Buttons -->
+      <div class="nav-buttons">
+        <button
+          class="nav-btn reset-btn"
+          id="reset-btn"
+          onclick="returnToCitywide()"
+        >
+          Reset
+        </button>
+        <a
+          href="#about-section"
+          class="nav-btn"
+          onclick="smoothScrollToAbout(); return false;"
+          >About</a
+        >
+      </div>
+
+      <!-- Hover Tooltip -->
+      <div class="hover-tooltip" id="hover-tooltip">
+        <div class="tooltip-value"></div>
+        <div class="tooltip-percentage"></div>
+        <div class="tooltip-breakdown"></div>
+        <div class="tooltip-scroll-hint"></div>
+      </div>
+
+      <!-- Loading State -->
+      <div class="loading">Loading spending data...</div>
+    </div>
+
+    <!-- About Section -->
+    <div class="info">
+      <div class="about-section">
+        <div class="about-title" id="about-section">About</div>
+
+        <div class="section-title">
+          New York City Fiscal Year 2025 Spending Overview
+        </div>
+
+        <p>
+          This visualization explores New York City's annual spending using data
+          from Checkbook NYC, revealing a budget exceeding $140 billion in FY
+          2025—larger than most U.S. states and significantly outpacing other
+          major American cities.
+        </p>
+
+        <div class="comparison-table">
+          <h3>FY 2025 Major City Spending Comparison</h3>
+          <table>
+            <tr>
+              <td>Los Angeles</td>
+              <td>$13.95 billion</td>
+            </tr>
+            <tr>
+              <td>Chicago</td>
+              <td>$16–17 billion</td>
+            </tr>
+            <tr>
+              <td>San Francisco</td>
+              <td>$15.9 billion</td>
+            </tr>
+            <tr>
+              <td>Philadelphia</td>
+              <td>$11.83 billion</td>
+            </tr>
+            <tr>
+              <td>Washington, DC</td>
+              <td>$21.2 billion</td>
+            </tr>
+          </table>
+          <div class="summary">
+            Combined, these five major cities spend less than New York City
+            alone.
+          </div>
+        </div>
+
+        <p>Three departments dominate NYC's spending landscape:</p>
+
+        <div class="department-list">
+          <div class="department-item">
+            <span>• Department of Education</span>
+            <span class="amount">$38 billion</span>
+          </div>
+          <div class="department-item">
+            <span>• Department of Social Services</span>
+            <span class="amount">$15 billion</span>
+          </div>
+          <div class="department-item">
+            <span>• New York Police Department</span>
+            <span class="amount">$11 billion</span>
+          </div>
+        </div>
+
+        <p>
+          Despite these large allocations, the city has a wide range of
+          agencies. 89 agencies operated on budgets under $10 million each,
+          demonstrating the breadth of municipal coverage.
+        </p>
+
+        <div class="note-section">
+          <strong>Data Currency:</strong> Figures current as of September 2,
+          2025. NYC's real-time financial transparency through Checkbook NYC
+          provides more current data than many other municipalities still
+          finalizing their FY 2025 reports.
+        </div>
+
+        <div class="methodology-section">
+          <div class="notes-title">Methodology & Notes</div>
+          <div class="notes-content">
+            • Segments below display thresholds are consolidated as "Other" for
+            visual clarity<br />
+            • "OTPS" = Other Than Personal Services; "PS" = Personal Services<br />
+            • Minor aggregation variations may occur due to visualization
+            processing<br />
+            • Data sourced from Checkbook NYC API and processed for interactive
+            display
+          </div>
+        </div>
+      </div>
+
+      <!-- Credits -->
+      <div class="credits">
+        <div class="credits-header">
+          <div class="data-attribution">
+            <span class="attribution-label">Data Source:</span>
+            <a
+              href="https://www.checkbooknyc.com"
+              target="_blank"
+              class="attribution-link"
+              >Checkbook NYC</a
+            >
+            <span class="attribution-note"
+              >— NYC's commitment to financial transparency enables public
+              analysis</span
+            >
+          </div>
+        </div>
+
+        <div class="credits-footer">
+          <div class="author-info">
+            <span class="author-label">Created by</span>
+            <a
+              href="https://github.com/marissashey"
+              target="_blank"
+              class="author-link"
+            >
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                class="github-icon"
+              >
+                <path
+                  d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"
+                />
+              </svg>
+              Marissa Shey
+            </a>
+          </div>
+
+          <div class="tech-stack">
+            <span class="tech-label">Built with: </span>
+            <a href="https://p5js.org/" target="_blank" class="tech-link"
+              >p5.js</a
+            >
+            and JavaScript.
+
+            <span class="tech-item"
+              >Inspired by: CloudRed Lab (<a
+                href="https://www.cloudred.com/labprojects/bar/#/?data=0"
+                target="_blank"
+                class="tech-link"
+                >Bar Charts</a
+              >,
+              <a
+                href="https://www.cloudred.com/labprojects/nyctrees/#about"
+                target="_blank"
+                class="tech-link"
+                >NYC Trees</a
+              >)</span
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Version Info -->
+    <div class="version-info">Version 1.1</div>
+
+    <!-- Scroll Indicator -->
+    <div class="scroll-indicator" id="scroll-indicator">Scroll for more</div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/data-manager.js"></script>
+    <script src="js/visualization-core.js"></script>
+    <script src="js/interactions.js"></script>
+
+    <script>
+      // Initialize the application
+      let dataManager;
+      let vizCore;
+      let interactionHandler;
+
+      function setup() {
+        dataManager = new DataManager();
+        vizCore = new VisualizationCore(dataManager);
+        interactionHandler = new InteractionHandler(vizCore);
+
+        // Make globally accessible
+        window.vizCore = vizCore;
+        window.interactionHandler = interactionHandler;
+
+        vizCore.setup();
+      }
+
+      function draw() {
+        vizCore.draw();
+      }
+
+      function windowResized() {
+        vizCore.windowResized();
+      }
+
+      // Initialize tooltip handlers when DOM loads
+      document.addEventListener("DOMContentLoaded", function () {
+        initializeTooltipHandlers();
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,207 @@
+/* NYC Spending Visualization - Interactive Elements */
+
+/* Legend and footnotes */
+.legend {
+  margin-bottom: 10px;
+  padding: 10px;
+  background: rgba(20, 20, 40, 0.5);
+  border-radius: 4px;
+}
+
+.legend-item {
+  margin-bottom: 8px;
+  font-size: 23px;
+}
+
+.footnote {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #777;
+  font-style: normal;
+}
+
+.value-display {
+  display: none; /* Removed in favor of hover tooltip */
+}
+
+/* Hover Tooltip */
+.hover-tooltip {
+  position: fixed;
+  background: rgba(10, 10, 15, 0.95);
+  border: 1px solid rgba(136, 176, 211, 0.4);
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 18px;
+  color: #fff;
+  z-index: 1001;
+  display: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  font-family: "Barlow Condensed", -apple-system, sans-serif;
+  max-width: 320px;
+}
+
+.hover-tooltip.visible {
+  display: block;
+}
+
+.hover-tooltip .tooltip-value {
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.hover-tooltip .tooltip-percentage {
+  font-size: 17px;
+  color: #88b0d3;
+  font-weight: 400;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(136, 176, 211, 0.2);
+  margin-bottom: 8px;
+}
+
+.hover-tooltip .tooltip-breakdown {
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  font-size: 15px;
+  color: #ccc;
+  line-height: 1.4;
+  margin-right: -8px;
+  padding-right: 8px;
+}
+
+.hover-tooltip .tooltip-breakdown::-webkit-scrollbar {
+  width: 4px;
+}
+
+.hover-tooltip .tooltip-breakdown::-webkit-scrollbar-track {
+  background: rgba(136, 176, 211, 0.1);
+  border-radius: 2px;
+}
+
+.hover-tooltip .tooltip-breakdown::-webkit-scrollbar-thumb {
+  background: rgba(136, 176, 211, 0.4);
+  border-radius: 2px;
+}
+
+.hover-tooltip .tooltip-breakdown-item {
+  margin-bottom: 3px;
+  padding: 2px 0;
+}
+
+.hover-tooltip .tooltip-scroll-hint {
+  font-size: 14px;
+  color: #666;
+  font-style: italic;
+  margin-top: 4px;
+}
+
+.segment-count {
+  font-size: 13px;
+  color: #666;
+  margin-top: 4px;
+}
+
+/* About Section Specific Styles */
+.comparison-table {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin: 40px 0;
+  max-width: none;
+  text-align: center;
+}
+
+.comparison-table h3 {
+  font-weight: 400;
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #88b0d3;
+  text-align: center;
+}
+
+.comparison-table table {
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.6;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.comparison-table td {
+  padding: 8px 20px;
+  border: none;
+  font-size: 16px;
+  color: #ccc;
+}
+
+.comparison-table td:first-child {
+  text-align: right;
+  border-right: 1px solid rgba(136, 176, 211, 0.2);
+  padding-right: 20px;
+  color: #ccc;
+}
+
+.comparison-table td:last-child {
+  text-align: left;
+  padding-left: 20px;
+  color: #88b0d3;
+  font-weight: 400;
+}
+
+.comparison-table .summary {
+  margin-top: 20px;
+  font-style: italic;
+  color: #999;
+  font-size: 16px;
+  text-align: center;
+}
+
+.department-list {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 400px;
+  margin: 30px auto;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.department-list .department-item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px 0;
+}
+
+.department-list .department-item span:first-child {
+  color: #ccc;
+  text-align: left;
+}
+
+.department-list .department-item .amount {
+  color: #88b0d3;
+  font-weight: 500;
+  text-align: right;
+}
+
+
+
+
+
+
+.credits-content {
+  color: #666;
+  font-size: 16px;
+}
+
+.credits-content a {
+  color: #88b0d3;
+  text-decoration: none;
+}
