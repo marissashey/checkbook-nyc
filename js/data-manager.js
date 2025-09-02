@@ -9,7 +9,7 @@ class DataManager {
 
   async loadTreemapData() {
     try {
-      const response = await fetch("data/visualizations/treemap_data_FY2025.json");
+      const response = await fetch("treemap_data_FY2025.json");
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 
       this.data_fy25 = await response.json();
@@ -18,7 +18,7 @@ class DataManager {
       document.querySelector(".loading").style.display = "none";
     } catch (error) {
       try {
-        const response2 = await fetch("./web_app/data/treemap_data_FY2025.json");
+        const response2 = await fetch("data/visualizations/treemap_data_FY2025.json");
         if (response2.ok) {
           this.data_fy25 = await response2.json();
           this.prepareDepartmentData();
