@@ -1,0 +1,14687 @@
+// NYC Spending Data FY2025
+const TREEMAP_DATA_FY2025 = 
+{
+  "name": "NYC Spending FY 2025",
+  "children": [
+    {
+      "name": "Department of Education",
+      "value": 38732737901.100006,
+      "children": [
+        {
+          "name": "GE INSTR & SCH LEADERSHIP - PS",
+          "value": 7755899158.389999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5403,
+            "avg_amount": 1435480.1329613177,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "FRINGE BENEFITS - PS",
+          "value": 5286389661.820001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1854,
+            "avg_amount": 2851342.8596655885,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CHARTER SCHOOLS",
+          "value": 3363614651.61,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7110,
+            "avg_amount": 473082.2294810127,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "IMPLEMENTATION OF THE SEVENTH FIVE-YEAR",
+          "value": 3199406876.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 173,
+            "avg_amount": 18493681.36416185,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SE INSTR & SCH LEADERSHIP - PS",
+          "value": 2483790564.0300007,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1748,
+            "avg_amount": 1420932.8169508013,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CONTRACT SCHOOLS/FOSTER/CH 683 PMTS",
+          "value": 2009928143.2,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 282059,
+            "avg_amount": 7125.9138804292725,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "PUPIL TRANSPORTATION - OTPS",
+          "value": 1918250327.4599998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6650,
+            "avg_amount": 288458.6958586466,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CW SE INSTR & SCHL LEADERSHIP - PS",
+          "value": 1544167388.4599998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2108,
+            "avg_amount": 732527.2241271347,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SCHOOL FACILITIES - OTPS",
+          "value": 1156125594.6699998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 132927,
+            "avg_amount": 8697.447431071188,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CATEGORICAL PROGRAMS - OTPS",
+          "value": 1144635876.37,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 345249,
+            "avg_amount": 3315.3923005425067,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "GE INSTR & SCH LEADERSHIP - OTPS",
+          "value": 989021371.3199999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 306033,
+            "avg_amount": 3231.7474629206654,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "UNIVERSAL PRE-K - OTPS",
+          "value": 975962593.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 55277,
+            "avg_amount": 17655.85313457677,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SE PRE-K CONTRACT PMTS - OTPS",
+          "value": 881795497.5999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 56598,
+            "avg_amount": 15579.976281847414,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CATEGORICAL PROGRAMS - PS",
+          "value": 798689128.18,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1834,
+            "avg_amount": 435490.25527808064,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "UNIVERSAL PRE-K - PS",
+          "value": 638745020.6800001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1317,
+            "avg_amount": 485000.0157023539,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SE INSTRUCTIONAL SUPPORT - OTPS",
+          "value": 546511129.8699999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 213053,
+            "avg_amount": 2565.1416777515446,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "IMPLEMENTATION OF THE EIGHTH FIVE-YEAR E",
+          "value": 532236547.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 18352984.379310343,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "ENERGY AND LEASES - OTPS",
+          "value": 478882136.47,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7295,
+            "avg_amount": 65645.25517066484,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "EARLY CHILDHOOD PROGRAMS - OTPS",
+          "value": 476626160.2300001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10159,
+            "avg_amount": 46916.6414243528,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SE INSTRUCTIONAL SUPPORT - PS",
+          "value": 455493725.31000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 942,
+            "avg_amount": 483538.9865286625,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SCHOOL SUPPORT ORGANIZATION",
+          "value": 356406838.7300001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1978,
+            "avg_amount": 180185.4594186047,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SCHOOL FOOD SERVICES - OTPS",
+          "value": 281370497.65999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7864,
+            "avg_amount": 35779.56480925737,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CENTRAL ADMINISTRATION - PS",
+          "value": 258041913.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4753,
+            "avg_amount": 54290.3247948664,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SCHOOL FOOD SERVICES - PS",
+          "value": 254783012.56000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 384,
+            "avg_amount": 663497.4285416667,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CENTRAL ADMINISTRATION - OTPS",
+          "value": 207295347.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9332,
+            "avg_amount": 22213.389118088297,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SCHOOL FACILITIES - PS",
+          "value": 193960511.85999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 738,
+            "avg_amount": 262819.1217615176,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-D01",
+          "value": 160352142.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 57,
+            "avg_amount": 2813195.4850877193,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "NPS & FIT PMTS - OTPS",
+          "value": 124106263.74,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11018,
+            "avg_amount": 11263.95568524233,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "IMPLEMENTATION OF THE SIXTH FIVE-YEAR ED",
+          "value": 54602770.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 22,
+            "avg_amount": 2481944.090909091,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "CW SE INSTR & SCHL LEADERSHIP - OTPS",
+          "value": 39217233.62,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 40859,
+            "avg_amount": 959.8187332044347,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "EARLY CHILDHOOD PROGRAMS- PS",
+          "value": 21997393.419999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 410,
+            "avg_amount": 53652.17907317073,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SCHOOL SUPPORT ORGANIZATION OTPS",
+          "value": 21109712.16,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10918,
+            "avg_amount": 1933.4779410148378,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-K01",
+          "value": 18208303.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 867062.0476190476,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-X01",
+          "value": 16196856.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 26,
+            "avg_amount": 622956.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-693",
+          "value": 13196298.0,
+          "budget_code": "400-040-693",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 2639259.6,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-M01",
+          "value": 10064433.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 718888.0714285715,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-Q01",
+          "value": 9123097.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 570193.5625,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "PUPIL TRANSPORTATION - PS",
+          "value": 9067960.35,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 156,
+            "avg_amount": 58127.95096153846,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "SE INSTR & SCH LEADERSHIP -OTPS",
+          "value": 8962421.46,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6488,
+            "avg_amount": 1381.3843187422935,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-R01",
+          "value": 8852247.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 680942.0769230769,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-704",
+          "value": 7005491.0,
+          "budget_code": "400-040-704",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 2335163.6666666665,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-807",
+          "value": 7000000.0,
+          "budget_code": "400-040-807",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 875000.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-806",
+          "value": 6993000.0,
+          "budget_code": "400-040-806",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 1748250.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-703",
+          "value": 3000000.0,
+          "budget_code": "400-040-703",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 1000000.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-805",
+          "value": 2570000.0,
+          "budget_code": "400-040-805",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 856666.6666666666,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-803",
+          "value": 1577900.0,
+          "budget_code": "400-040-803",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 788950.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "400-040-804",
+          "value": 1000000.0,
+          "budget_code": "400-040-804",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1000000.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "DOE EARLY LEARN CENTERS: ACQUISITION, CO",
+          "value": 440330.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 440330.0,
+            "parent_agency": "Department of Education"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 64374.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 68,
+            "avg_amount": 946.6838235294117,
+            "parent_agency": "Department of Education"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1532983,
+        "avg_amount": 25266.25402962721,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Social Services",
+      "value": 12658396038.539999,
+      "children": [
+        {
+          "name": "MEDICAL ASSISTANCE - OTPS",
+          "value": 5945254996.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1409,
+            "avg_amount": 4219485.448041164,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "PUBLIC ASSISTANCE - OTPS",
+          "value": 4610007491.980001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11149,
+            "avg_amount": 413490.67108978395,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "ADULT SERVICES - OTPS",
+          "value": 350932550.23999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7868,
+            "avg_amount": 44602.51019827147,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "ADMINISTRATION",
+          "value": 331187559.67999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8944,
+            "avg_amount": 37029.02053667262,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "PUBLIC ASSISTANCE",
+          "value": 327781262.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4687,
+            "avg_amount": 69934.12896949008,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "ADMINISTRATION-OTPS",
+          "value": 318006432.42999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16370,
+            "avg_amount": 19426.171803909587,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "LEGAL SERVICES - OTPS",
+          "value": 245384103.21,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1318,
+            "avg_amount": 186179.13748861913,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "ADULT SERVICES",
+          "value": 102279734.83000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1276,
+            "avg_amount": 80156.5319984326,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "FAIR FARES - OTPS",
+          "value": 73188840.96000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 99,
+            "avg_amount": 739281.2218181819,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "MEDICAL ASSISTANCE",
+          "value": 65703887.81000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 785,
+            "avg_amount": 83699.2201401274,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "DOMESTIC VIOLENCE SERVICES - OTPS",
+          "value": 53081829.47,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1018,
+            "avg_amount": 52143.25095284872,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-203",
+          "value": 53031742.53,
+          "budget_code": "400-096-203",
+          "metadata": {
+            "total_records": 147,
+            "avg_amount": 360760.15326530614,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "EMERGENCY FOOD - OTPS",
+          "value": 50936873.67,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 256,
+            "avg_amount": 198972.1627734375,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "HOME ENERGY ASSISTANCE - OTPS",
+          "value": 33785593.74999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 99,
+            "avg_amount": 341268.6237373737,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "CHILD SUPPORT SERVICES - PS",
+          "value": 27819228.700000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 599,
+            "avg_amount": 46442.78580968281,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-224",
+          "value": 14219972.52,
+          "budget_code": "400-096-224",
+          "metadata": {
+            "total_records": 902,
+            "avg_amount": 15764.936274944566,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-221",
+          "value": 14162033.069999998,
+          "budget_code": "400-096-221",
+          "metadata": {
+            "total_records": 168,
+            "avg_amount": 84297.81589285714,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "DOMESTIC VIOLENCE SERVICES - PS",
+          "value": 14084039.500000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 734,
+            "avg_amount": 19188.06471389646,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "CHILD SUPPORT SERVICES - OTPS",
+          "value": 11811510.8,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 804,
+            "avg_amount": 14690.933830845772,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, ACQUISITIO",
+          "value": 4175705.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 1043926.25,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "LEGAL SERVICES - PS",
+          "value": 3272728.8599999994,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 195,
+            "avg_amount": 16783.22492307692,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-A75",
+          "value": 2900000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 2900000.0,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "FAIR FARES - PS",
+          "value": 2511451.9099999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 107,
+            "avg_amount": 23471.51317757009,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "EMERGENCY FOOD - PS",
+          "value": 1413797.11,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 247,
+            "avg_amount": 5723.874939271255,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "HOME ENERGY ASSISTANCE - PS",
+          "value": 1003794.5000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 86,
+            "avg_amount": 11672.029069767445,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-A56",
+          "value": 166826.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 166826.0,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-A53",
+          "value": 142037.24,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 142037.24,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "400-096-A65",
+          "value": 100000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 50000.0,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 50000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 50000.0,
+            "parent_agency": "Department of Social Services"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 14.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 3.5,
+            "parent_agency": "Department of Social Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 59281,
+        "avg_amount": 213532.09356353636,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Miscellaneous",
+      "value": 11868070716.390001,
+      "children": [
+        {
+          "name": "FRINGE BENEFITS",
+          "value": 8104892382.280001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 104572,
+            "avg_amount": 77505.37794323529,
+            "parent_agency": "Miscellaneous"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 3762142335.71,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 28897,
+            "avg_amount": 130191.45017510468,
+            "parent_agency": "Miscellaneous"
+          }
+        },
+        {
+          "name": "INDIGENT DEFENSE SERVICES",
+          "value": 1035998.3999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 430,
+            "avg_amount": 2409.2986046511623,
+            "parent_agency": "Miscellaneous"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 133899,
+        "avg_amount": 88634.49851298367,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Pension Contributions",
+      "value": 10055586638.369999,
+      "children": [
+        {
+          "name": "CITY ACTUARIAL PENSIONS",
+          "value": 9928360006.39,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 220,
+            "avg_amount": 45128909.11995454,
+            "parent_agency": "Pension Contributions"
+          }
+        },
+        {
+          "name": "NON-CITY PENSIONS",
+          "value": 127170581.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 914,
+            "avg_amount": 139136.3036761488,
+            "parent_agency": "Pension Contributions"
+          }
+        },
+        {
+          "name": "NON - ACTUARIAL PENSIONS",
+          "value": 56050.42,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 4311.570769230769,
+            "parent_agency": "Pension Contributions"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1147,
+        "avg_amount": 8766858.446704445,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Police Department",
+      "value": 6755918561.77,
+      "children": [
+        {
+          "name": "OPERATIONS",
+          "value": 2038043235.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5742,
+            "avg_amount": 354936.1259543713,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "PATROL - PS",
+          "value": 1795015112.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 19793,
+            "avg_amount": 90689.39080887182,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "EXECUTIVE MANAGEMENT",
+          "value": 397790615.41999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2116,
+            "avg_amount": 187991.78422495272,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "TRANSIT POLICE-PS",
+          "value": 329285348.83000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 338,
+            "avg_amount": 974217.0083727812,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "ADMINISTRATION-OTPS",
+          "value": 322533530.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 31147,
+            "avg_amount": 10355.203729091085,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "ADMINISTRATION-PERSONNEL",
+          "value": 316858534.59999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3083,
+            "avg_amount": 102776.04106389878,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "SCHOOL SAFETY- P.S.",
+          "value": 278764145.71999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 586,
+            "avg_amount": 475706.73331058014,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "INTELLIGENCE AND COUNTERTERRORISM - PS",
+          "value": 262085180.73000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1272,
+            "avg_amount": 206041.80875000003,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "HOUSING POLICE-PS",
+          "value": 218241538.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 349,
+            "avg_amount": 625333.920487106,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "TRAFFIC ENFORCEMENT",
+          "value": 165700471.17000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2035,
+            "avg_amount": 81425.29295823097,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "COMMUNICATIONS - PS",
+          "value": 135846340.67000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 458,
+            "avg_amount": 296607.73072052404,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "EXECUTIVE MANAGEMENT-OTPS",
+          "value": 94156335.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2435,
+            "avg_amount": 38667.89939219713,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-202",
+          "value": 85182609.49999999,
+          "budget_code": "400-056-202",
+          "metadata": {
+            "total_records": 53,
+            "avg_amount": 1607219.047169811,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "CRIMINAL JUSTICE",
+          "value": 76330937.67999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 426,
+            "avg_amount": 179180.6048826291,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "COMMUNITY AFFAIRS BUREAU",
+          "value": 63799323.25000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 250,
+            "avg_amount": 255197.29300000003,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "OPERATIONS-OTPS",
+          "value": 39338906.089999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6186,
+            "avg_amount": 6359.3446637568695,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "COMMUNICATIONS - OTPS",
+          "value": 36703767.260000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1144,
+            "avg_amount": 32083.712639860143,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-207",
+          "value": 35478947.19,
+          "budget_code": "400-056-207",
+          "metadata": {
+            "total_records": 244,
+            "avg_amount": 145405.5212704918,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-227",
+          "value": 14350294.790000001,
+          "budget_code": "400-056-227",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 755278.6731578948,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-253",
+          "value": 12053875.57,
+          "budget_code": "400-056-253",
+          "metadata": {
+            "total_records": 82,
+            "avg_amount": 146998.48256097562,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "TRAFFIC ENFORCEMENT-OTPS",
+          "value": 9146899.71,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1960,
+            "avg_amount": 4666.785566326531,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-002",
+          "value": 8879702.979999999,
+          "budget_code": "400-056-002",
+          "metadata": {
+            "total_records": 121,
+            "avg_amount": 73385.97504132231,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-232",
+          "value": 4514364.489999999,
+          "budget_code": "400-056-232",
+          "metadata": {
+            "total_records": 63,
+            "avg_amount": 71656.5792063492,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 2493317.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 91,
+            "avg_amount": 27399.09318681319,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-236",
+          "value": 2175564.0,
+          "budget_code": "400-056-236",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 725188.0,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-263",
+          "value": 2070374.8299999998,
+          "budget_code": "400-056-263",
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 147883.91642857142,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "PATROL, HOUSING & TRANSIT - OTPS",
+          "value": 2061638.8,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3318,
+            "avg_amount": 621.3498493068114,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "SCHOOL SAFETY- OTPS",
+          "value": 1837931.2099999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 668,
+            "avg_amount": 2751.3940269461073,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-D85",
+          "value": 1798343.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 203,
+            "avg_amount": 8858.833103448276,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "INTELLIGENCE AND COUNTERTERRORISM - OTPS",
+          "value": 1546158.21,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1308,
+            "avg_amount": 1182.078142201835,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-255",
+          "value": 1420797.22,
+          "budget_code": "400-056-255",
+          "metadata": {
+            "total_records": 90,
+            "avg_amount": 15786.635777777778,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "CRIMINAL JUSTICE-OTPS",
+          "value": 310398.92000000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 230,
+            "avg_amount": 1349.5605217391305,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "400-056-D79",
+          "value": 104000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 52000.0,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 17.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 5.833333333333333,
+            "parent_agency": "Police Department"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 3.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3.5,
+            "parent_agency": "Police Department"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 85833,
+        "avg_amount": 78710.03648678248,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Housing Preservation and Development",
+      "value": 5083199831.910001,
+      "children": [
+        {
+          "name": "RENTAL SUBSIDY PROGRAMS - OTPS",
+          "value": 793117432.27,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 169740,
+            "avg_amount": 4672.542902497938,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-307",
+          "value": 585975472.0,
+          "budget_code": "400-806-307",
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 58597547.2,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "CITY ASSISTANCE TO NYC HOUSING AUTHORITY",
+          "value": 524593474.77000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 90,
+            "avg_amount": 5828816.386333333,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-900",
+          "value": 433341329.7,
+          "budget_code": "400-806-900",
+          "metadata": {
+            "total_records": 836,
+            "avg_amount": 518350.87284688995,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-200",
+          "value": 408945699.73999995,
+          "budget_code": "400-806-200",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 21523457.88105263,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-313",
+          "value": 332736889.0,
+          "budget_code": "400-806-313",
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 30248808.09090909,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "EMERGENCY SHELTER OPERATIONS",
+          "value": 284998416.45000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6965,
+            "avg_amount": 40918.65275664035,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-302",
+          "value": 189942632.0,
+          "budget_code": "400-806-302",
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 18994263.2,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-288",
+          "value": 189524201.0,
+          "budget_code": "400-806-288",
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 11148482.411764706,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-323",
+          "value": 188914651.0,
+          "budget_code": "400-806-323",
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 18891465.1,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-247",
+          "value": 165143095.0,
+          "budget_code": "400-806-247",
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 15013008.636363637,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-314",
+          "value": 147283860.0,
+          "budget_code": "400-806-314",
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 24547310.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "OFFICE OF HOUSING PRESERVATION",
+          "value": 138404994.46,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 49072,
+            "avg_amount": 2820.4473928105645,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-308",
+          "value": 100000000.0,
+          "budget_code": "400-806-308",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 50000000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-315",
+          "value": 71234731.0,
+          "budget_code": "400-806-315",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 17808682.75,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-244",
+          "value": 57056236.5,
+          "budget_code": "400-806-244",
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 4075445.464285714,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "OFFICE OF ADMINISTRATION",
+          "value": 56775300.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5791,
+            "avg_amount": 9804.05813331031,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-301",
+          "value": 56626631.0,
+          "budget_code": "400-806-301",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 8089518.714285715,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-327",
+          "value": 49142092.0,
+          "budget_code": "400-806-327",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 12285523.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "OFFICE OF DEVELOPMENT OTPS",
+          "value": 41918566.190000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1297,
+            "avg_amount": 32319.634687740945,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-285",
+          "value": 38049368.0,
+          "budget_code": "400-806-285",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 9512342.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "OFFICE OF DEVELOPMENT",
+          "value": 34310499.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3306,
+            "avg_amount": 10378.251621294616,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-246",
+          "value": 28935780.0,
+          "budget_code": "400-806-246",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 7233945.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "RENTAL SUBSIDY PROGRAMS - PS",
+          "value": 24434068.939999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 964,
+            "avg_amount": 25346.544543568463,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "HOUSING MAINTENANCE AND SALES",
+          "value": 23796935.380000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2018,
+            "avg_amount": 11792.336660059465,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-316",
+          "value": 15003127.0,
+          "budget_code": "400-806-316",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 3750781.75,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-D20",
+          "value": 14935000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 933437.5,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 12701748.669999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 243,
+            "avg_amount": 52270.570658436205,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "OFFICE OF ADMINISTRATION OTPS",
+          "value": 11656219.719999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2914,
+            "avg_amount": 4000.0754015099515,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-D91",
+          "value": 10481908.88,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 95,
+            "avg_amount": 110335.88294736843,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "HOUSING MANAGEMENT AND SALES",
+          "value": 10285074.129999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5174,
+            "avg_amount": 1987.8380614611517,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-D24",
+          "value": 7001000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 2333666.6666666665,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-D21",
+          "value": 6246730.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 694081.1111111111,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "PROVISION OF LOANS OR GRANTS PURSUANT TO",
+          "value": 3293927.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3293927.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-275",
+          "value": 3236842.7100000004,
+          "budget_code": "400-806-275",
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 70366.14586956523,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-K17",
+          "value": 2588520.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 647130.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-K01",
+          "value": 2516204.19,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 148012.01117647058,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-X20",
+          "value": 2250000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 750000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-204",
+          "value": 2117918.8499999996,
+          "budget_code": "400-806-204",
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 100853.27857142856,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-Q20",
+          "value": 2000000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 1000000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-319",
+          "value": 1586886.49,
+          "budget_code": "400-806-319",
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 34497.53239130435,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-254",
+          "value": 1338170.24,
+          "budget_code": "400-806-254",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 70430.01263157895,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-210",
+          "value": 1313069.78,
+          "budget_code": "400-806-210",
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 145896.64222222223,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-AM4",
+          "value": 909000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 454500.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-Q90",
+          "value": 771741.85,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 385870.925,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-M02",
+          "value": 750000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 187500.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-D22",
+          "value": 750000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 750000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-X90",
+          "value": 639044.63,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 127808.926,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-M20",
+          "value": 600000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 300000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-K20",
+          "value": 600000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 600000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-X51",
+          "value": 500000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 500000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-253",
+          "value": 497327.0,
+          "budget_code": "400-806-253",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 248663.5,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 484260.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 22,
+            "avg_amount": 22011.850909090906,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-213",
+          "value": 323015.0,
+          "budget_code": "400-806-213",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 161507.5,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-M01",
+          "value": 261685.13999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 65421.284999999996,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "400-806-232",
+          "value": 241185.0,
+          "budget_code": "400-806-232",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 120592.5,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, ACQUISITIO",
+          "value": 117000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 117000.0,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 868.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 45,
+            "avg_amount": 19.288888888888888,
+            "parent_agency": "Housing Preservation and Development"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 248934,
+        "avg_amount": 20419.86965183543,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "City University of New York",
+      "value": 4657082537.099998,
+      "children": [
+        {
+          "name": "SENIOR COLLEGE OTPS",
+          "value": 3230000000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 49,
+            "avg_amount": 65918367.346938774,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "COMMUNITY COLLEGE PS",
+          "value": 924737014.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5654,
+            "avg_amount": 163554.4771931376,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "COMMUNITY COLLEGE-OTPS",
+          "value": 425380652.79,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 54128,
+            "avg_amount": 7858.791250184748,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "HUNTER SCHOOLS-PS",
+          "value": 23031256.220000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 385,
+            "avg_amount": 59821.444727272734,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-210",
+          "value": 16625125.5,
+          "budget_code": "400-042-210",
+          "metadata": {
+            "total_records": 345,
+            "avg_amount": 48188.76956521739,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-233",
+          "value": 12562424.28,
+          "budget_code": "400-042-233",
+          "metadata": {
+            "total_records": 36,
+            "avg_amount": 348956.23,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-D06",
+          "value": 10338023.709999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 60,
+            "avg_amount": 172300.39516666665,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-D02",
+          "value": 3201394.68,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 175,
+            "avg_amount": 18293.683885714287,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-D04",
+          "value": 3113767.6000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 152,
+            "avg_amount": 20485.31315789474,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-K04",
+          "value": 2127661.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 425532.25599999994,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-Q04",
+          "value": 2024972.61,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 120,
+            "avg_amount": 16874.77175,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-Q07",
+          "value": 961197.97,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 96119.79699999999,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "HUNTER SCHOOLS-OTPS",
+          "value": 745872.14,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 436,
+            "avg_amount": 1710.7159174311928,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-Q01",
+          "value": 576703.8400000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 62,
+            "avg_amount": 9301.67483870968,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-K02",
+          "value": 401631.01000000007,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 25,
+            "avg_amount": 16065.240400000002,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-M06",
+          "value": 327793.07,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 81948.2675,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-Q06",
+          "value": 294003.63999999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 17294.33176470588,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-D05",
+          "value": 287359.15,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 56,
+            "avg_amount": 5131.413392857144,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-X02",
+          "value": 203039.30999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 33,
+            "avg_amount": 6152.706363636363,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "400-042-K03",
+          "value": 142633.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 47544.583333333336,
+            "parent_agency": "City University of New York"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 10.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 5.25,
+            "parent_agency": "City University of New York"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 61757,
+        "avg_amount": 75409.79220331296,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Health and Hospitals Corporation",
+      "value": 4223059045.549999,
+      "children": [
+        {
+          "name": "LUMP SUM",
+          "value": 3848218640.07,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 343,
+            "avg_amount": 11219296.326734694,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-303",
+          "value": 214946903.20000002,
+          "budget_code": "400-819-303",
+          "metadata": {
+            "total_records": 1397,
+            "avg_amount": 153863.20916249105,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-338",
+          "value": 86484802.16000003,
+          "budget_code": "400-819-338",
+          "metadata": {
+            "total_records": 204,
+            "avg_amount": 423945.1086274511,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-341",
+          "value": 62153162.63,
+          "budget_code": "400-819-341",
+          "metadata": {
+            "total_records": 146,
+            "avg_amount": 425706.5933561644,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-D03",
+          "value": 6557599.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 96,
+            "avg_amount": 68308.32552083333,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-K01",
+          "value": 1807808.88,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 106341.69882352941,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-Q03",
+          "value": 1389647.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 347411.8875,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-X02",
+          "value": 610960.9,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 101826.81666666667,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-Q01",
+          "value": 463309.91000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 27253.52411764706,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-K05",
+          "value": 377372.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 377372.0,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-333",
+          "value": 26589.0,
+          "budget_code": "400-819-333",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 26589.0,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        },
+        {
+          "name": "400-819-R01",
+          "value": 22250.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 11125.0,
+            "parent_agency": "Health and Hospitals Corporation"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 2234,
+        "avg_amount": 1890357.6748209486,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Homeless Services",
+      "value": 4155934096.6800003,
+      "children": [
+        {
+          "name": "SHELTER INTAKE AND PROGRAM - OTPS",
+          "value": 3621649856.1400003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17528,
+            "avg_amount": 206620.82702761298,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "STREET PROGRAMS - OTPS",
+          "value": 314503354.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1165,
+            "avg_amount": 269959.96073819743,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "SHELTER INTAKE AND PROGRAM - PS",
+          "value": 120690280.86999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6780,
+            "avg_amount": 17800.9263820059,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "ADMINISTRATION - PS",
+          "value": 30717461.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1500,
+            "avg_amount": 20478.307526666667,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "ADMINISTRATION - OTPS",
+          "value": 26404251.740000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1487,
+            "avg_amount": 17756.726119704104,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "400-071-103",
+          "value": 23308685.46,
+          "budget_code": "400-071-103",
+          "metadata": {
+            "total_records": 222,
+            "avg_amount": 104994.07864864865,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "STREET PROGRAMS - PS",
+          "value": 10118692.73,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 575,
+            "avg_amount": 17597.726486956522,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "400-071-104",
+          "value": 5820527.169999999,
+          "budget_code": "400-071-104",
+          "metadata": {
+            "total_records": 84,
+            "avg_amount": 69291.99011904761,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "400-071-102",
+          "value": 1182159.5299999998,
+          "budget_code": "400-071-102",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 168879.93285714282,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "400-071-A03",
+          "value": 930682.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 465341.0,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 520605.00999999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 23,
+            "avg_amount": 22635.000434782607,
+            "parent_agency": "Department of Homeless Services"
+          }
+        },
+        {
+          "name": "400-071-M01",
+          "value": 87540.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 87540.48,
+            "parent_agency": "Department of Homeless Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 29374,
+        "avg_amount": 141483.42400354057,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "SCHOOL CONSTRUCTION AUTHORITY",
+      "value": 4049438280.8600006,
+      "children": [
+        {
+          "name": "402-044-706",
+          "value": 2900889449.26,
+          "budget_code": "402-044-706",
+          "metadata": {
+            "total_records": 78737,
+            "avg_amount": 36842.77340081538,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "044_BL 2366",
+          "value": 665144851.8599999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15963,
+            "avg_amount": 41667.91028378124,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-705",
+          "value": 201503058.13000003,
+          "budget_code": "402-044-705",
+          "metadata": {
+            "total_records": 11680,
+            "avg_amount": 17251.974154965756,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-D01",
+          "value": 156742646.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8491,
+            "avg_amount": 18459.857135790837,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-723",
+          "value": 19205650.98,
+          "budget_code": "402-044-723",
+          "metadata": {
+            "total_records": 373,
+            "avg_amount": 51489.68091152815,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-704",
+          "value": 17548603.21,
+          "budget_code": "402-044-704",
+          "metadata": {
+            "total_records": 739,
+            "avg_amount": 23746.418416779434,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-693",
+          "value": 14430427.85,
+          "budget_code": "402-044-693",
+          "metadata": {
+            "total_records": 1586,
+            "avg_amount": 9098.630422446406,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-K01",
+          "value": 14385069.050000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 519,
+            "avg_amount": 27716.896050096344,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-X01",
+          "value": 14303360.819999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 499,
+            "avg_amount": 28664.049739478956,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-Q01",
+          "value": 10518674.11,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 540,
+            "avg_amount": 19479.02612962963,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-M01",
+          "value": 9352703.150000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 398,
+            "avg_amount": 23499.25414572865,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-R01",
+          "value": 6516941.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 353,
+            "avg_amount": 18461.5892917847,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-807",
+          "value": 5904742.2299999995,
+          "budget_code": "402-044-807",
+          "metadata": {
+            "total_records": 294,
+            "avg_amount": 20084.157244897957,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "FIT - CONSTRUCTION, RECONSTRUCTION, ADDI",
+          "value": 3788192.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 1894096.0,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-806",
+          "value": 3352581.4599999995,
+          "budget_code": "402-044-806",
+          "metadata": {
+            "total_records": 35,
+            "avg_amount": 95788.0417142857,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-703",
+          "value": 2623768.04,
+          "budget_code": "402-044-703",
+          "metadata": {
+            "total_records": 242,
+            "avg_amount": 10842.016694214875,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-803",
+          "value": 1215839.5400000005,
+          "budget_code": "402-044-803",
+          "metadata": {
+            "total_records": 38,
+            "avg_amount": 31995.777368421066,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-804",
+          "value": 1018218.93,
+          "budget_code": "402-044-804",
+          "metadata": {
+            "total_records": 206,
+            "avg_amount": 4942.810339805826,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-707",
+          "value": 850000.0,
+          "budget_code": "402-044-707",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 425000.0,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-702",
+          "value": 129916.18,
+          "budget_code": "402-044-702",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 18559.454285714284,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        },
+        {
+          "name": "402-044-900",
+          "value": 13586.1,
+          "budget_code": "402-044-900",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 6793.05,
+            "parent_agency": "SCHOOL CONSTRUCTION AUTHORITY"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 120706,
+        "avg_amount": 33547.945262538735,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Debt Service",
+      "value": 3901554561.859999,
+      "children": [
+        {
+          "name": "BUDGET STABILIZATION ACCOUNT",
+          "value": 3786891596.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 82323730.3478261,
+            "parent_agency": "Debt Service"
+          }
+        },
+        {
+          "name": "LEASE PURCH & CITY GUAR DEBT",
+          "value": 91642362.63,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 4823282.24368421,
+            "parent_agency": "Debt Service"
+          }
+        },
+        {
+          "name": "FUNDED DEBT-W/O CONST LIMIT",
+          "value": 23020603.229999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 331,
+            "avg_amount": 69548.65024169184,
+            "parent_agency": "Debt Service"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 396,
+        "avg_amount": 9852410.509747474,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Administration for Children's Services",
+      "value": 3770284012.74,
+      "children": [
+        {
+          "name": "HEADSTART/DAYCARE-OTPS",
+          "value": 1457641514.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 252,
+            "avg_amount": 5784291.723253968,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "CHILD WELFARE-OTPS",
+          "value": 1109809236.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16667,
+            "avg_amount": 66587.2224305514,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 390049338.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9926,
+            "avg_amount": 39295.722200282085,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "ADOPTION SUBSIDY - OTPS",
+          "value": 250539404.07,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 24,
+            "avg_amount": 10439141.83625,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "ADMINISTRATIVE-PS",
+          "value": 118136793.67999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5138,
+            "avg_amount": 22992.758598676523,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "JUVENILE JUSTICE - OTPS",
+          "value": 104215020.21999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9449,
+            "avg_amount": 11029.211580061381,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 103461836.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6298,
+            "avg_amount": 16427.728891711657,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "JUVENILE JUSTICE - PS",
+          "value": 91003037.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5063,
+            "avg_amount": 17974.133371518863,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "COMMITTEE ON SPECIAL EDUCATION",
+          "value": 68374045.1,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 358,
+            "avg_amount": 190988.95279329608,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "400-068-103",
+          "value": 21110175.96,
+          "budget_code": "400-068-103",
+          "metadata": {
+            "total_records": 34,
+            "avg_amount": 620887.5282352942,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "400-068-105",
+          "value": 20952091.98,
+          "budget_code": "400-068-105",
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 1232475.9988235293,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "HEADSTART and DAYCARE-PS",
+          "value": 15547940.77,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 776,
+            "avg_amount": 20036.006146907217,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "400-068-104",
+          "value": 12342375.24,
+          "budget_code": "400-068-104",
+          "metadata": {
+            "total_records": 43,
+            "avg_amount": 287031.9823255814,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "ADOPTION SUBSIDY - PS",
+          "value": 3953226.8600000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 479,
+            "avg_amount": 8253.083215031316,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 2394166.4699999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 112,
+            "avg_amount": 21376.48633928571,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "400-068-A19",
+          "value": 457291.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 457291.0,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "400-068-M04",
+          "value": 180000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 180000.0,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "400-068-A36",
+          "value": 107806.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 53903.25,
+            "parent_agency": "Administration for Children's Services"
+          }
+        },
+        {
+          "name": "JUVENILE JUSTICE - OCFS PAYMENTS",
+          "value": 8712.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 8712.0,
+            "parent_agency": "Administration for Children's Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 54641,
+        "avg_amount": 69001.00680331618,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Environmental Protection",
+      "value": 3382430083.3599997,
+      "children": [
+        {
+          "name": "UTILITY - OTPS",
+          "value": 742624758.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37481,
+            "avg_amount": 19813.365652997516,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-804",
+          "value": 476901360.35,
+          "budget_code": "400-826-804",
+          "metadata": {
+            "total_records": 2132,
+            "avg_amount": 223687.31723733584,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-822",
+          "value": 375703769.46000004,
+          "budget_code": "400-826-822",
+          "metadata": {
+            "total_records": 877,
+            "avg_amount": 428396.54442417336,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "WATER SUP. & WASTEWATER COLL",
+          "value": 255363990.90999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8740,
+            "avg_amount": 29217.847930205946,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "WASTEWATER TREATMENT",
+          "value": 223029941.88,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7118,
+            "avg_amount": 31333.2315088508,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 202598910.06,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6180,
+            "avg_amount": 32782.995155339806,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-702",
+          "value": 145955840.81,
+          "budget_code": "400-826-702",
+          "metadata": {
+            "total_records": 979,
+            "avg_amount": 149086.6606843718,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-823",
+          "value": 115308780.40999998,
+          "budget_code": "400-826-823",
+          "metadata": {
+            "total_records": 741,
+            "avg_amount": 155612.38921727394,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "CENTRAL UTILITY",
+          "value": 90022751.08,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3139,
+            "avg_amount": 28678.799324625677,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-700",
+          "value": 87839289.67,
+          "budget_code": "400-826-700",
+          "metadata": {
+            "total_records": 1018,
+            "avg_amount": 86286.13916502947,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-303",
+          "value": 78383637.77,
+          "budget_code": "400-826-303",
+          "metadata": {
+            "total_records": 287,
+            "avg_amount": 273113.7204529617,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "EXECUTIVE & SUPPORT-OTPS",
+          "value": 60665045.260000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2798,
+            "avg_amount": 21681.574431736957,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "EXECUTIVE AND SUPPORT",
+          "value": 54796819.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4361,
+            "avg_amount": 12565.195991745013,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-357",
+          "value": 50713225.870000005,
+          "budget_code": "400-826-357",
+          "metadata": {
+            "total_records": 234,
+            "avg_amount": 216723.1874786325,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-304",
+          "value": 38432197.89999999,
+          "budget_code": "400-826-304",
+          "metadata": {
+            "total_records": 286,
+            "avg_amount": 134378.3143356643,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "ENVIRONMENTAL MANAGEMENT -OTPS",
+          "value": 36805875.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1046,
+            "avg_amount": 35187.261453154875,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-302",
+          "value": 35975943.52,
+          "budget_code": "400-826-302",
+          "metadata": {
+            "total_records": 243,
+            "avg_amount": 148049.15028806587,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "ENVIRONMENTAL MANAGEMENT",
+          "value": 31115862.619999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2513,
+            "avg_amount": 12381.958861918025,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-306",
+          "value": 25815607.94,
+          "budget_code": "400-826-306",
+          "metadata": {
+            "total_records": 120,
+            "avg_amount": 215130.0661666667,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-36K",
+          "value": 25153579.35,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 146,
+            "avg_amount": 172284.79006849317,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-707",
+          "value": 24988717.27,
+          "budget_code": "400-826-707",
+          "metadata": {
+            "total_records": 135,
+            "avg_amount": 185101.6094074074,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-701",
+          "value": 23130016.830000002,
+          "budget_code": "400-826-701",
+          "metadata": {
+            "total_records": 351,
+            "avg_amount": 65897.48384615385,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-305",
+          "value": 23129124.839999996,
+          "budget_code": "400-826-305",
+          "metadata": {
+            "total_records": 193,
+            "avg_amount": 119840.02507772019,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-356",
+          "value": 19365892.68,
+          "budget_code": "400-826-356",
+          "metadata": {
+            "total_records": 141,
+            "avg_amount": 137346.7565957447,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-711",
+          "value": 17392129.12,
+          "budget_code": "400-826-711",
+          "metadata": {
+            "total_records": 134,
+            "avg_amount": 129792.00835820896,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-255",
+          "value": 13992659.120000001,
+          "budget_code": "400-826-255",
+          "metadata": {
+            "total_records": 555,
+            "avg_amount": 25211.998414414415,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-807",
+          "value": 13821186.79,
+          "budget_code": "400-826-807",
+          "metadata": {
+            "total_records": 120,
+            "avg_amount": 115176.55658333332,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-816",
+          "value": 11403143.05,
+          "budget_code": "400-826-816",
+          "metadata": {
+            "total_records": 108,
+            "avg_amount": 105584.65787037037,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-257",
+          "value": 10687343.229999999,
+          "budget_code": "400-826-257",
+          "metadata": {
+            "total_records": 96,
+            "avg_amount": 111326.49197916665,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-358",
+          "value": 10037213.9,
+          "budget_code": "400-826-358",
+          "metadata": {
+            "total_records": 186,
+            "avg_amount": 53963.51559139785,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-410",
+          "value": 9898019.779999997,
+          "budget_code": "400-826-410",
+          "metadata": {
+            "total_records": 87,
+            "avg_amount": 113770.34229885055,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-251",
+          "value": 8273885.49,
+          "budget_code": "400-826-251",
+          "metadata": {
+            "total_records": 39,
+            "avg_amount": 212150.91,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-36J",
+          "value": 7462237.4799999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 201682.09405405403,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-35A",
+          "value": 6300821.899999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 484678.6076923077,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-824",
+          "value": 6232151.500000001,
+          "budget_code": "400-826-824",
+          "metadata": {
+            "total_records": 73,
+            "avg_amount": 85371.93835616439,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-34V",
+          "value": 5524871.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 302,
+            "avg_amount": 18294.275794701985,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-359",
+          "value": 4940551.6899999995,
+          "budget_code": "400-826-359",
+          "metadata": {
+            "total_records": 47,
+            "avg_amount": 105118.12106382978,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "SITE ACQUISITION FOR, CONSTRUCTION AND R",
+          "value": 3906713.0500000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 300516.3884615385,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-708",
+          "value": 2967741.9099999997,
+          "budget_code": "400-826-708",
+          "metadata": {
+            "total_records": 125,
+            "avg_amount": 23741.935279999998,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-254",
+          "value": 2022602.49,
+          "budget_code": "400-826-254",
+          "metadata": {
+            "total_records": 43,
+            "avg_amount": 47037.26720930233,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-252",
+          "value": 1793740.23,
+          "budget_code": "400-826-252",
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 298956.705,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 663930.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 165982.715,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-256",
+          "value": 653458.4,
+          "budget_code": "400-826-256",
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 65345.840000000004,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-D04",
+          "value": 210000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 210000.0,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-34R",
+          "value": 132360.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 3577.3048648648646,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-808",
+          "value": 80893.65999999999,
+          "budget_code": "400-826-808",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 16178.731999999998,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-D2R",
+          "value": 55737.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 27868.775,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-821",
+          "value": 45709.02,
+          "budget_code": "400-826-821",
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 2176.62,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-34H",
+          "value": 34927.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 2182.978125,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-686",
+          "value": 20733.24,
+          "budget_code": "400-826-686",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 2591.655,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-815",
+          "value": 17853.88,
+          "budget_code": "400-826-815",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 4463.47,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-33C",
+          "value": 17283.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 2880.5483333333336,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-801",
+          "value": 6920.17,
+          "budget_code": "400-826-801",
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 768.9077777777778,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-810",
+          "value": 6161.8099999999995,
+          "budget_code": "400-826-810",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 770.2262499999999,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        },
+        {
+          "name": "400-826-814",
+          "value": 6161.8099999999995,
+          "budget_code": "400-826-814",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 770.2262499999999,
+            "parent_agency": "Department of Environmental Protection"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 83382,
+        "avg_amount": 40565.47076539301,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Citywide Administrative Services",
+      "value": 2885882254.17,
+      "children": [
+        {
+          "name": "ENERGY MANAGEMENT - OTPS",
+          "value": 1051138688.45,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1374,
+            "avg_amount": 765020.8795123727,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-725",
+          "value": 363221960.34999996,
+          "budget_code": "400-856-725",
+          "metadata": {
+            "total_records": 443,
+            "avg_amount": 819914.1317155756,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "OFFICE OF CITYWIDE PURCHASING - OTPS",
+          "value": 344382539.21000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1399,
+            "avg_amount": 246163.35897784133,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "ASSET MANAGEMENT-PUBLIC FACILITIES-OTPS",
+          "value": 194054622.10999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9098,
+            "avg_amount": 21329.371522312595,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-711",
+          "value": 133951416.51,
+          "budget_code": "400-856-711",
+          "metadata": {
+            "total_records": 1033,
+            "avg_amount": 129672.2328267183,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-723",
+          "value": 113170602.49000002,
+          "budget_code": "400-856-723",
+          "metadata": {
+            "total_records": 705,
+            "avg_amount": 160525.67729078018,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "ASSET MANAGEMENT-PUBLIC FACILITIES",
+          "value": 109692425.99,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3518,
+            "avg_amount": 31180.33712052302,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "CITYWIDE FLEET SERVICES - OTPS",
+          "value": 96242665.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1454,
+            "avg_amount": 66191.65421595599,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-742",
+          "value": 67976212.43,
+          "budget_code": "400-856-742",
+          "metadata": {
+            "total_records": 437,
+            "avg_amount": 155551.97352402747,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-410",
+          "value": 67218798.73,
+          "budget_code": "400-856-410",
+          "metadata": {
+            "total_records": 118,
+            "avg_amount": 569650.8366949153,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "HUMAN CAPITAL",
+          "value": 55939967.68,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2732,
+            "avg_amount": 20475.830043923866,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "DIV OF ADMINISTRATION AND SECURITY- OTPS",
+          "value": 39970957.839999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3628,
+            "avg_amount": 11017.353318632855,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "EXECUTIVE AND OPERATIONS SUPPORT",
+          "value": 35344042.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1396,
+            "avg_amount": 25318.08206303725,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-820",
+          "value": 31797296.66,
+          "budget_code": "400-856-820",
+          "metadata": {
+            "total_records": 783,
+            "avg_amount": 40609.574278416345,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-486",
+          "value": 25949990.84,
+          "budget_code": "400-856-486",
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 1235713.8495238095,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-726",
+          "value": 23165110.37,
+          "budget_code": "400-856-726",
+          "metadata": {
+            "total_records": 165,
+            "avg_amount": 140394.6083030303,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "DIV OF REAL ESTATE SERVICES",
+          "value": 15884467.64,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 780,
+            "avg_amount": 20364.702102564104,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "DIV OF ADMINISTRATION AND SECURITY - PS",
+          "value": 14159135.120000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1163,
+            "avg_amount": 12174.664763542563,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "OFFICE OF CITYWIDE PURCHASING",
+          "value": 11301183.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1341,
+            "avg_amount": 8427.430089485459,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "ENERGY MANAGEMENT",
+          "value": 8577534.22,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 223,
+            "avg_amount": 38464.27901345292,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-758",
+          "value": 7316151.85,
+          "budget_code": "400-856-758",
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 197733.83378378378,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-716",
+          "value": 6564425.28,
+          "budget_code": "400-856-716",
+          "metadata": {
+            "total_records": 66,
+            "avg_amount": 99460.98909090909,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "EXECUTIVE AND OPERATIONS SUPPORT - OTPS",
+          "value": 6081112.419999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 687,
+            "avg_amount": 8851.692023289665,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-714",
+          "value": 5861570.5,
+          "budget_code": "400-856-714",
+          "metadata": {
+            "total_records": 84,
+            "avg_amount": 69780.60119047618,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-442",
+          "value": 5165918.890000001,
+          "budget_code": "400-856-442",
+          "metadata": {
+            "total_records": 35,
+            "avg_amount": 147597.6825714286,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "CITYWIDE FLEET SERVICES",
+          "value": 4608515.319999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 354,
+            "avg_amount": 13018.40485875706,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-807",
+          "value": 4184735.909999999,
+          "budget_code": "400-856-807",
+          "metadata": {
+            "total_records": 33,
+            "avg_amount": 126810.17909090906,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-752",
+          "value": 3872126.4299999997,
+          "budget_code": "400-856-752",
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 184386.97285714286,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-857",
+          "value": 3494991.49,
+          "budget_code": "400-856-857",
+          "metadata": {
+            "total_records": 32,
+            "avg_amount": 109218.4840625,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "EXTERNAL PUBLICATIONS AND RETAIL",
+          "value": 3066845.57,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 584,
+            "avg_amount": 5251.447893835616,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-B29",
+          "value": 2990000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 996666.6666666666,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-765",
+          "value": 2803767.3400000003,
+          "budget_code": "400-856-765",
+          "metadata": {
+            "total_records": 55,
+            "avg_amount": 50977.588,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-422",
+          "value": 2776459.76,
+          "budget_code": "400-856-422",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 694114.94,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "BD OF STANDARD & APPEALS PS",
+          "value": 2388698.1400000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 86,
+            "avg_amount": 27775.559767441868,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-440",
+          "value": 2323051.5500000003,
+          "budget_code": "400-856-440",
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 258116.83888888892,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-786",
+          "value": 1864773.1400000001,
+          "budget_code": "400-856-786",
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 88798.72095238096,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-195",
+          "value": 1840312.01,
+          "budget_code": "400-856-195",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 262901.71571428573,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-745",
+          "value": 1646601.45,
+          "budget_code": "400-856-745",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 329320.29,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-434",
+          "value": 1210112.1,
+          "budget_code": "400-856-434",
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 110010.19090909092,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-796",
+          "value": 1201500.0,
+          "budget_code": "400-856-796",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 300375.0,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-799",
+          "value": 1087558.48,
+          "budget_code": "400-856-799",
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 120839.83111111111,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-785",
+          "value": 1068312.9600000002,
+          "budget_code": "400-856-785",
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 178052.16000000003,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-424",
+          "value": 1015631.8099999999,
+          "budget_code": "400-856-424",
+          "metadata": {
+            "total_records": 28,
+            "avg_amount": 36272.56464285714,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-B07",
+          "value": 980000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 326666.6666666667,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-437",
+          "value": 899976.43,
+          "budget_code": "400-856-437",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 449988.215,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 877445.2199999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 54840.32624999999,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-419",
+          "value": 717276.39,
+          "budget_code": "400-856-419",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 102468.05571428571,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "EXTERNAL PUBLICATIONS AND RETAIL - OTPS",
+          "value": 424356.38,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 357,
+            "avg_amount": 1188.6733333333334,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-A52",
+          "value": 415165.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 415165.0,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-B26",
+          "value": 393335.03,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 393335.03,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-431",
+          "value": 357614.25000000006,
+          "budget_code": "400-856-431",
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 29801.187500000004,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-418",
+          "value": 328598.62,
+          "budget_code": "400-856-418",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 328598.62,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-819",
+          "value": 316745.7,
+          "budget_code": "400-856-819",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 79186.425,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-436",
+          "value": 282204.17,
+          "budget_code": "400-856-436",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 94068.05666666666,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-B23",
+          "value": 275000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 275000.0,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-483",
+          "value": 256787.46000000002,
+          "budget_code": "400-856-483",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 85595.82,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-435",
+          "value": 209921.72,
+          "budget_code": "400-856-435",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 52480.43,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-445",
+          "value": 185077.32,
+          "budget_code": "400-856-445",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 185077.32,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-764",
+          "value": 173565.0,
+          "budget_code": "400-856-764",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 173565.0,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-753",
+          "value": 158423.0,
+          "budget_code": "400-856-753",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 79211.5,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-426",
+          "value": 157636.81,
+          "budget_code": "400-856-426",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 157636.81,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-757",
+          "value": 146060.51,
+          "budget_code": "400-856-757",
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 9128.781875,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-443",
+          "value": 135353.0,
+          "budget_code": "400-856-443",
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 11279.416666666666,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-Q77",
+          "value": 119958.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 59979.275,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-414",
+          "value": 89570.25,
+          "budget_code": "400-856-414",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 44785.125,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "BD. OF STANDARD & APPEAL OTPS",
+          "value": 82871.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 59,
+            "avg_amount": 1404.6033898305086,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-D04",
+          "value": 77470.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 77470.0,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-823",
+          "value": 57184.85,
+          "budget_code": "400-856-823",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 14296.2125,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-X78",
+          "value": 53539.71,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 17846.57,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, ACQUISITIO",
+          "value": 50775.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 25387.5,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-482",
+          "value": 45888.21,
+          "budget_code": "400-856-482",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 22944.105,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        },
+        {
+          "name": "400-856-A90",
+          "value": 41663.41,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 41663.41,
+            "parent_agency": "Department of Citywide Administrative Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 34516,
+        "avg_amount": 83609.98534505737,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Fire Department",
+      "value": 2883021690.27,
+      "children": [
+        {
+          "name": "FIRE EXTING AND EMERG RESP",
+          "value": 1866957628.5499997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4780,
+            "avg_amount": 390576.9097384937,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "EMERGENCY MEDICAL SERVICES-PS",
+          "value": 397904865.64,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2903,
+            "avg_amount": 137066.78113675507,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "EXECUTIVE ADMIN-OTPS",
+          "value": 186883896.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11229,
+            "avg_amount": 16642.96880577077,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "EXECUTIVE ADMINISTRATIVE",
+          "value": 135217325.32999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6032,
+            "avg_amount": 22416.66533985411,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "FIRE PREVENTION",
+          "value": 53207304.519999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2507,
+            "avg_amount": 21223.496019146387,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-207",
+          "value": 52083192.56999999,
+          "budget_code": "400-057-207",
+          "metadata": {
+            "total_records": 233,
+            "avg_amount": 223533.01532188838,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "FIRE EXTING & RESP-OTPS",
+          "value": 45817246.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2011,
+            "avg_amount": 22783.314788662356,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-213",
+          "value": 42124404.98,
+          "budget_code": "400-057-213",
+          "metadata": {
+            "total_records": 319,
+            "avg_amount": 132051.42626959246,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "EMERGENCY MEDICAL SERV-OTPS",
+          "value": 36381277.57,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1449,
+            "avg_amount": 25107.852015182885,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "FIRE INVESTIGATION",
+          "value": 27851738.81000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 383,
+            "avg_amount": 72719.94467362927,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-228",
+          "value": 23705234.56,
+          "budget_code": "400-057-228",
+          "metadata": {
+            "total_records": 92,
+            "avg_amount": 257665.59304347823,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 4945014.109999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 121,
+            "avg_amount": 40867.885206611565,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-200",
+          "value": 4465509.9399999995,
+          "budget_code": "400-057-200",
+          "metadata": {
+            "total_records": 74,
+            "avg_amount": 60344.72891891891,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "FIRE PREVENTION-OTPS",
+          "value": 2306601.95,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 357,
+            "avg_amount": 6461.069887955183,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-D75",
+          "value": 1006893.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 47947.288095238095,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-226",
+          "value": 934820.15,
+          "budget_code": "400-057-226",
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 62321.34333333334,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "FIRE INVESTIGATION-OTPS",
+          "value": 311179.05000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 89,
+            "avg_amount": 3496.3938202247195,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-208",
+          "value": 293210.05,
+          "budget_code": "400-057-208",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 146605.025,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-Q01",
+          "value": 241312.99,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 80437.66333333333,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-R75",
+          "value": 239414.24,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 119707.12,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 81519.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 5434.6,
+            "parent_agency": "Fire Department"
+          }
+        },
+        {
+          "name": "400-057-X75",
+          "value": 62100.45,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 62100.45,
+            "parent_agency": "Fire Department"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 32638,
+        "avg_amount": 88333.28299129849,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Health and Mental Hygiene",
+      "value": 2419243671.8500004,
+      "children": [
+        {
+          "name": "MENTAL HEALTH",
+          "value": 459522869.37,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6125,
+            "avg_amount": 75024.14193795918,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "EARLY INTERVENTION - OTPS",
+          "value": 345337044.99999994,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1045,
+            "avg_amount": 330466.07177033485,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "DISEASE CONTROL - OTPS",
+          "value": 284384908.38,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7762,
+            "avg_amount": 36638.0969312033,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-111",
+          "value": 189853539.35999998,
+          "budget_code": "400-816-111",
+          "metadata": {
+            "total_records": 262,
+            "avg_amount": 724631.8296183206,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "HEALTH ADMINISTRATION - OTPS",
+          "value": 152375671.55999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6337,
+            "avg_amount": 24045.39554363263,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "ALCOHOL&DRUG USE PREVENT, CARE TREATMENT",
+          "value": 128960271.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1271,
+            "avg_amount": 101463.62805664832,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "DISEASE CONTROL - PS",
+          "value": 128248483.13,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5383,
+            "avg_amount": 23824.722855285156,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "FAMILY & CHILD HEALTH - PS",
+          "value": 115319810.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3499,
+            "avg_amount": 32957.93388110889,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "ENVIRONMENTAL HEALTH - PS",
+          "value": 86841508.95,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4193,
+            "avg_amount": 20711.06819699499,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "OFFICE OF CHIEF MEDICAL EXAMINER - PS",
+          "value": 85238691.83,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5488,
+            "avg_amount": 15531.831601676384,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "HEALTH ADMINISTRATION - PS",
+          "value": 81291131.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2311,
+            "avg_amount": 35175.738342708784,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "MENTAL HYGIENE MANAGEMENT SERVICES - PS",
+          "value": 47923776.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2658,
+            "avg_amount": 18030.013750940554,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "MENTAL HYGIENE MANAGEMENT SERVICES- OTPS",
+          "value": 47713699.79,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 508,
+            "avg_amount": 93924.60588582676,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "CENTER FOR HLTH EQUITY&COMM WELLNESS-OTP",
+          "value": 47491203.91,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2302,
+            "avg_amount": 20630.410039096438,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "ENVIRONMENTAL HEALTH - OTPS",
+          "value": 44499467.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2805,
+            "avg_amount": 15864.33770409982,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "FAMILY & CHILD HEALTH - OTPS",
+          "value": 37455010.1,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1803,
+            "avg_amount": 20773.71608430394,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "CENTER FOR HLTH EQUITY& COMM WELLNESS-PS",
+          "value": 33348002.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1755,
+            "avg_amount": 19001.71095156695,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "OFFICE OF CHIEF MEDICAL EXAMINER - OTPS",
+          "value": 22251349.529999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3297,
+            "avg_amount": 6748.968616924476,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "EPIDEMIOLOGY - PS",
+          "value": 19154378.43,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1066,
+            "avg_amount": 17968.46006566604,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-A65",
+          "value": 16403257.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 4100814.4,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "EARLY INTERVENTION - PS",
+          "value": 15748655.61,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 412,
+            "avg_amount": 38224.89225728155,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "DEVELOPMENT DISABILITY - OTPS",
+          "value": 8333159.470000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 223,
+            "avg_amount": 37368.42811659193,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-115",
+          "value": 7518719.369999999,
+          "budget_code": "400-816-115",
+          "metadata": {
+            "total_records": 23,
+            "avg_amount": 326900.842173913,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "EPIDEMIOLOGY - OTPS",
+          "value": 6585332.21,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 485,
+            "avg_amount": 13578.004556701031,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, ACQUISITIO",
+          "value": 2345300.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 469060.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-A25",
+          "value": 1716458.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 858229.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-A66",
+          "value": 767914.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 383957.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-A75",
+          "value": 540800.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 270400.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-A79",
+          "value": 491448.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 491448.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-AA5",
+          "value": 359931.27,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 359931.27,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-B11",
+          "value": 240000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 240000.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-B10",
+          "value": 218465.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 218465.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-AO7",
+          "value": 198716.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 99358.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-B31",
+          "value": 134000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 134000.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-B20",
+          "value": 119048.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 119048.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-R03",
+          "value": 106717.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 106717.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-AC3",
+          "value": 85000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 85000.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "400-816-A52",
+          "value": 69883.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 69883.0,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 50048.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 4170.685833333334,
+            "parent_agency": "Department of Health and Mental Hygiene"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 61051,
+        "avg_amount": 39626.60188776597,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Sanitation",
+      "value": 2376948943.49,
+      "children": [
+        {
+          "name": "CLEANING & COLLECTION",
+          "value": 989601213.6299999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 33657,
+            "avg_amount": 29402.53776718067,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "WASTE DISPOSAL-OTPS",
+          "value": 579945456.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2064,
+            "avg_amount": 280981.32587209303,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-902",
+          "value": 206440866.57999998,
+          "budget_code": "400-827-902",
+          "metadata": {
+            "total_records": 751,
+            "avg_amount": 274887.97147802927,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "EXEC & ADMINISTRATIVE-OTPS",
+          "value": 95459793.41999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10024,
+            "avg_amount": 9523.123844772545,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "BUREAU OF MOTOR EQUIP",
+          "value": 91456516.43,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 771,
+            "avg_amount": 118620.64387808043,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-905",
+          "value": 85509625.53999999,
+          "budget_code": "400-827-905",
+          "metadata": {
+            "total_records": 985,
+            "avg_amount": 86811.80257868019,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "EXECUTIVE ADMINISTRATIVE",
+          "value": 84570915.50999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5147,
+            "avg_amount": 16431.108511754417,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "WASTE DISPOSAL",
+          "value": 47102524.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2647,
+            "avg_amount": 17794.682493388744,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-937",
+          "value": 36577093.56,
+          "budget_code": "400-827-937",
+          "metadata": {
+            "total_records": 314,
+            "avg_amount": 116487.55910828026,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "SNOW-OTPS",
+          "value": 34728736.89,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5587,
+            "avg_amount": 6215.99013603007,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "BUILDING MANAGEMENT",
+          "value": 32479745.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 944,
+            "avg_amount": 34406.510338983055,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "CLEANING & COLLECTION-OTPS",
+          "value": 27959783.010000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2327,
+            "avg_amount": 12015.377314138377,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "MOTOR EQUIPMENT-OTPS",
+          "value": 27075122.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13058,
+            "avg_amount": 2073.4509833052534,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-961",
+          "value": 10671700.339999998,
+          "budget_code": "400-827-961",
+          "metadata": {
+            "total_records": 148,
+            "avg_amount": 72106.08337837836,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-956",
+          "value": 10138001.799999997,
+          "budget_code": "400-827-956",
+          "metadata": {
+            "total_records": 50,
+            "avg_amount": 202760.03599999993,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "SNOW BUDGET-PS",
+          "value": 5901349.17,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 137,
+            "avg_amount": 43075.54138686131,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "BUILDING MANAGEMENT-OTPS",
+          "value": 5577691.259999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3631,
+            "avg_amount": 1536.1308895621037,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 4327551.53,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 88,
+            "avg_amount": 49176.72193181818,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-981",
+          "value": 1246711.41,
+          "budget_code": "400-827-981",
+          "metadata": {
+            "total_records": 20,
+            "avg_amount": 62335.570499999994,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-930",
+          "value": 86314.56999999999,
+          "budget_code": "400-827-930",
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 7846.77909090909,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-D29",
+          "value": 40367.42,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 10091.855,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-959",
+          "value": 23979.67,
+          "budget_code": "400-827-959",
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 1998.305833333333,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-901",
+          "value": 13514.62,
+          "budget_code": "400-827-901",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 13514.62,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-977",
+          "value": 12831.3,
+          "budget_code": "400-827-977",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 12831.3,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "400-827-984",
+          "value": 1511.47,
+          "budget_code": "400-827-984",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1511.47,
+            "parent_agency": "Department of Sanitation"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 24.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 12.25,
+            "parent_agency": "Department of Sanitation"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 82382,
+        "avg_amount": 28852.770550484325,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Correction",
+      "value": 2327232517.4700003,
+      "children": [
+        {
+          "name": "400-072-228",
+          "value": 914541348.61,
+          "budget_code": "400-072-228",
+          "metadata": {
+            "total_records": 302,
+            "avg_amount": 3028282.611291391,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "NYC DOC JAIL OPERATIONS - PS",
+          "value": 909494757.4300001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6652,
+            "avg_amount": 136725.0086334937,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "OPERATIONS",
+          "value": 192970226.27,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3802,
+            "avg_amount": 50754.92537348764,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "ADMINISTRATION",
+          "value": 93729836.97000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2829,
+            "avg_amount": 33131.7910816543,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "OPERATIONS - OTPS",
+          "value": 61187188.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5015,
+            "avg_amount": 12200.835152542373,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "NYC DOC JAIL OPERATIONS - OTPS",
+          "value": 47282398.1,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6479,
+            "avg_amount": 7297.792576014817,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "NYC DOC TRANSPORTATION PS",
+          "value": 41190815.900000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 280,
+            "avg_amount": 147110.05678571432,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "NYC DOC HEALTH AND PROGRAMS - PS",
+          "value": 25442068.779999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 855,
+            "avg_amount": 29756.80559064327,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "ADMINISTRATION - OTPS",
+          "value": 13399545.309999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4258,
+            "avg_amount": 3146.910594175669,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "NYC DOC HEALTH AND PROGRAMS - OTPS",
+          "value": 12298531.32,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 945,
+            "avg_amount": 13014.318857142858,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "400-072-213",
+          "value": 5704322.95,
+          "budget_code": "400-072-213",
+          "metadata": {
+            "total_records": 71,
+            "avg_amount": 80342.57676056339,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "400-072-202",
+          "value": 5189085.95,
+          "budget_code": "400-072-202",
+          "metadata": {
+            "total_records": 48,
+            "avg_amount": 108105.95729166667,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "NYC DOC TRANSPORTATION OTPS",
+          "value": 2988986.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 677,
+            "avg_amount": 4415.046528803545,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "400-072-223",
+          "value": 1566027.54,
+          "budget_code": "400-072-223",
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 261004.59,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "400-072-240",
+          "value": 186194.62,
+          "budget_code": "400-072-240",
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 31032.436666666665,
+            "parent_agency": "Department of Correction"
+          }
+        },
+        {
+          "name": "400-072-218",
+          "value": 61182.93,
+          "budget_code": "400-072-218",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 15295.7325,
+            "parent_agency": "Department of Correction"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 32229,
+        "avg_amount": 72209.26859257191,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Transportation",
+      "value": 2206301384.1200004,
+      "children": [
+        {
+          "name": "OTPS-TRAFFIC OPERATIONS",
+          "value": 366721040.07,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7995,
+            "avg_amount": 45868.79800750469,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "HIGHWAY OPERATIONS",
+          "value": 262684033.23000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8729,
+            "avg_amount": 30093.25618398442,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "OTPS-HIGHWAY OPERATIONS",
+          "value": 153091444.51999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12053,
+            "avg_amount": 12701.521987886832,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-354",
+          "value": 150099076.3,
+          "budget_code": "400-841-354",
+          "metadata": {
+            "total_records": 1233,
+            "avg_amount": 121734.85506893756,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "TRAFFIC OPERATIONS",
+          "value": 149596918.7,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8669,
+            "avg_amount": 17256.53693620948,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "TRANSIT OPERATIONS",
+          "value": 103849690.34000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1843,
+            "avg_amount": 56348.177069994585,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "OTPS-EXEC AND ADMINISTRATION",
+          "value": 99116186.83,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7384,
+            "avg_amount": 13423.102225081257,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "EXEC ADM & PLANN MGT.",
+          "value": 91498635.43,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8174,
+            "avg_amount": 11193.862910447762,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "BUREAU OF BRIDGES",
+          "value": 87294315.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4904,
+            "avg_amount": 17800.635350734097,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-900",
+          "value": 64072081.71,
+          "budget_code": "400-841-900",
+          "metadata": {
+            "total_records": 237,
+            "avg_amount": 270346.3363291139,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "OTPS-TRANSIT OPERATIONS",
+          "value": 57516860.650000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4566,
+            "avg_amount": 12596.77193385896,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-203",
+          "value": 43146743.53,
+          "budget_code": "400-841-203",
+          "metadata": {
+            "total_records": 136,
+            "avg_amount": 317255.46713235293,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-208",
+          "value": 41536629.11000001,
+          "budget_code": "400-841-208",
+          "metadata": {
+            "total_records": 85,
+            "avg_amount": 488666.2248235295,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-362",
+          "value": 38895224.14,
+          "budget_code": "400-841-362",
+          "metadata": {
+            "total_records": 477,
+            "avg_amount": 81541.35039832286,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-301",
+          "value": 31369534.340000004,
+          "budget_code": "400-841-301",
+          "metadata": {
+            "total_records": 288,
+            "avg_amount": 108921.99423611112,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-34S",
+          "value": 29676377.429999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 785,
+            "avg_amount": 37804.30245859872,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-204",
+          "value": 27591912.7,
+          "budget_code": "400-841-204",
+          "metadata": {
+            "total_records": 99,
+            "avg_amount": 278706.18888888886,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "BUREAU OF BRIDGES - OTPS",
+          "value": 26527383.040000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2693,
+            "avg_amount": 9850.495001856667,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-37Q",
+          "value": 25452105.84,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 174,
+            "avg_amount": 146276.4703448276,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-306",
+          "value": 24599178.25,
+          "budget_code": "400-841-306",
+          "metadata": {
+            "total_records": 75,
+            "avg_amount": 327989.04333333333,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-61R",
+          "value": 23340824.38,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 164,
+            "avg_amount": 142322.0998780488,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-65X",
+          "value": 22451274.09,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 118,
+            "avg_amount": 190265.03466101695,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-303",
+          "value": 21879484.23,
+          "budget_code": "400-841-303",
+          "metadata": {
+            "total_records": 180,
+            "avg_amount": 121552.69016666667,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-254",
+          "value": 17227316.319999997,
+          "budget_code": "400-841-254",
+          "metadata": {
+            "total_records": 43,
+            "avg_amount": 400635.26325581386,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-68Q",
+          "value": 15952091.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 88,
+            "avg_amount": 181273.7615909091,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-302",
+          "value": 15764029.020000001,
+          "budget_code": "400-841-302",
+          "metadata": {
+            "total_records": 265,
+            "avg_amount": 59486.90196226416,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-788",
+          "value": 15211957.430000003,
+          "budget_code": "400-841-788",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 800629.3384210528,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-250",
+          "value": 15088155.239999998,
+          "budget_code": "400-841-250",
+          "metadata": {
+            "total_records": 129,
+            "avg_amount": 116962.44372093023,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-805",
+          "value": 14531486.54,
+          "budget_code": "400-841-805",
+          "metadata": {
+            "total_records": 67,
+            "avg_amount": 216887.85880597014,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-300",
+          "value": 12315729.540000001,
+          "budget_code": "400-841-300",
+          "metadata": {
+            "total_records": 52,
+            "avg_amount": 236840.9526923077,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-63Y",
+          "value": 12154094.290000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 90,
+            "avg_amount": 135045.49211111112,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-67R",
+          "value": 11442928.530000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 188,
+            "avg_amount": 60866.64111702128,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-792",
+          "value": 10823979.25,
+          "budget_code": "400-841-792",
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 901998.2708333334,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69H",
+          "value": 10047261.879999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 53,
+            "avg_amount": 189570.9788679245,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-66Y",
+          "value": 9043570.9,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 106,
+            "avg_amount": 85316.7066037736,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-60B",
+          "value": 8976174.469999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 61,
+            "avg_amount": 147150.40114754095,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-926",
+          "value": 8501935.73,
+          "budget_code": "400-841-926",
+          "metadata": {
+            "total_records": 262,
+            "avg_amount": 32450.136374045804,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-789",
+          "value": 7516532.389999999,
+          "budget_code": "400-841-789",
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 501102.15933333326,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-68N",
+          "value": 6856095.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 114,
+            "avg_amount": 60141.18991228071,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-305",
+          "value": 5479684.529999999,
+          "budget_code": "400-841-305",
+          "metadata": {
+            "total_records": 56,
+            "avg_amount": 97851.5094642857,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-790",
+          "value": 5071720.17,
+          "budget_code": "400-841-790",
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 390132.3207692308,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-35S",
+          "value": 4932391.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 51,
+            "avg_amount": 96713.55862745098,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-806",
+          "value": 4548220.75,
+          "budget_code": "400-841-806",
+          "metadata": {
+            "total_records": 196,
+            "avg_amount": 23205.207908163266,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-62C",
+          "value": 4436894.549999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 145,
+            "avg_amount": 30599.272758620682,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-Q05",
+          "value": 3423258.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 1141086.2866666666,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-61P",
+          "value": 3321195.5400000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 89762.04162162164,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-304",
+          "value": 3218498.3699999996,
+          "budget_code": "400-841-304",
+          "metadata": {
+            "total_records": 41,
+            "avg_amount": 78499.96024390243,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-384",
+          "value": 3163524.8699999996,
+          "budget_code": "400-841-384",
+          "metadata": {
+            "total_records": 38,
+            "avg_amount": 83250.6544736842,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-923",
+          "value": 2555901.75,
+          "budget_code": "400-841-923",
+          "metadata": {
+            "total_records": 201,
+            "avg_amount": 12715.929104477613,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-68C",
+          "value": 2534845.87,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 33,
+            "avg_amount": 76813.51121212122,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-68B",
+          "value": 2257916.61,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 43,
+            "avg_amount": 52509.68860465116,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-33C",
+          "value": 2069568.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 129348.046875,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-791",
+          "value": 2055543.6099999999,
+          "budget_code": "400-841-791",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 411108.72199999995,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-64P",
+          "value": 1880945.6399999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 64860.19448275861,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69N",
+          "value": 1755769.9,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 20,
+            "avg_amount": 87788.495,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-D95",
+          "value": 1650876.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 57,
+            "avg_amount": 28962.751929824564,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-924",
+          "value": 1647214.21,
+          "budget_code": "400-841-924",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 86695.4847368421,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 1487155.3599999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 41,
+            "avg_amount": 36272.08195121951,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-638",
+          "value": 1410619.6,
+          "budget_code": "400-841-638",
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 88163.725,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-665",
+          "value": 1301078.9300000002,
+          "budget_code": "400-841-665",
+          "metadata": {
+            "total_records": 40,
+            "avg_amount": 32526.973250000003,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-66I",
+          "value": 1209232.5799999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 93017.89076923075,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-313",
+          "value": 1110480.79,
+          "budget_code": "400-841-313",
+          "metadata": {
+            "total_records": 133,
+            "avg_amount": 8349.47962406015,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-30S",
+          "value": 1086443.92,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 120715.9911111111,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-263",
+          "value": 931993.69,
+          "budget_code": "400-841-263",
+          "metadata": {
+            "total_records": 33,
+            "avg_amount": 28242.23303030303,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69G",
+          "value": 899439.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 64245.68285714286,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-359",
+          "value": 737806.61,
+          "budget_code": "400-841-359",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 147561.322,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-37F",
+          "value": 646177.8700000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 161544.46750000003,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-D96",
+          "value": 630922.1799999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 45065.869999999995,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69M",
+          "value": 496266.67000000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 165422.22333333336,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-64G",
+          "value": 492450.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 70350.06999999999,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-K05",
+          "value": 491876.37000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 35,
+            "avg_amount": 14053.610571428573,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-64T",
+          "value": 469514.02999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 52168.22555555555,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-68U",
+          "value": 388002.87,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 55428.98142857143,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-36B",
+          "value": 363217.8999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 44,
+            "avg_amount": 8254.95227272727,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-DD8",
+          "value": 334286.43000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 55714.405000000006,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-X06",
+          "value": 324754.64,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 108251.54666666668,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-Q06",
+          "value": 273032.62,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 273032.62,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-67F",
+          "value": 265286.19,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 24116.926363636365,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-66B",
+          "value": 265286.18,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 24116.925454545453,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-201",
+          "value": 170523.56,
+          "budget_code": "400-841-201",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 85261.78,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-32K",
+          "value": 125000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 125000.0,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-D10",
+          "value": 114750.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 57375.0,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-M02",
+          "value": 98650.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 7046.428571428572,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-65N",
+          "value": 89933.01,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 89933.01,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69L",
+          "value": 87950.35,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 14658.391666666668,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69I",
+          "value": 84011.78,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 28003.926666666666,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-323",
+          "value": 83256.1,
+          "budget_code": "400-841-323",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 83256.1,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-60J",
+          "value": 58050.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 3628.125,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-D97",
+          "value": 46080.170000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 6582.88142857143,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-33V",
+          "value": 41070.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 41070.6,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-64S",
+          "value": 41041.76999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 3731.0699999999993,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69U",
+          "value": 26858.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 6714.64,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-X01",
+          "value": 25646.69,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 25646.69,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-67G",
+          "value": 24790.01,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 24790.01,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-64U",
+          "value": 24416.54,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 25,
+            "avg_amount": 976.6616,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-69S",
+          "value": 18487.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 4621.8125,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, REHABILITA",
+          "value": 17775.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 8887.5,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-427",
+          "value": 15567.38,
+          "budget_code": "400-841-427",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 7783.69,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-574",
+          "value": 13956.11,
+          "budget_code": "400-841-574",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 13956.11,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-Q01",
+          "value": 12500.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 2500.0,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "400-841-R05",
+          "value": 1468.11,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1468.11,
+            "parent_agency": "Department of Transportation"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 10.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 5.25,
+            "parent_agency": "Department of Transportation"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 74200,
+        "avg_amount": 29734.520001617257,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Finance",
+      "value": 2190971975.0,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 1825781178.1100001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 154,
+            "avg_amount": 11855721.935779221,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "ADMINISTRATION-OTPS",
+          "value": 102767273.11,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3027,
+            "avg_amount": 33950.20585067724,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "ADMINISTRATION & PLANNING",
+          "value": 50995992.870000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2010,
+            "avg_amount": 25371.140731343286,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "OPERATIONS-OTPS",
+          "value": 40379055.85,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1659,
+            "avg_amount": 24339.3947257384,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "AUDIT",
+          "value": 30540816.18,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 747,
+            "avg_amount": 40884.62674698795,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "PROPERTY",
+          "value": 30038391.059999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1035,
+            "avg_amount": 29022.60005797101,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "CITY SHERIFF-OTPS",
+          "value": 26589878.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1072,
+            "avg_amount": 24803.990932835823,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "CITY SHERIFF",
+          "value": 24393683.009999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1140,
+            "avg_amount": 21397.967552631577,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "OPERATIONS",
+          "value": 22506359.41,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1236,
+            "avg_amount": 18209.028648867315,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 15030295.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 275,
+            "avg_amount": 54655.61912727272,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "PARKING VIOLATIONS BUREAU",
+          "value": 9317080.97,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 235,
+            "avg_amount": 39647.15306382979,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "LEGAL",
+          "value": 6134735.930000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 282,
+            "avg_amount": 21754.382730496458,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "PROPERTY-OTPS",
+          "value": 5091905.400000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 653,
+            "avg_amount": 7797.7111791730495,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "PARKING VIOLATIONS BUREAU OTPS",
+          "value": 803019.53,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 287,
+            "avg_amount": 2797.977456445993,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "AUDIT-OTPS",
+          "value": 346450.92000000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 522,
+            "avg_amount": 663.6990804597702,
+            "parent_agency": "Department of Finance"
+          }
+        },
+        {
+          "name": "LEGAL-OTPS",
+          "value": 255859.11,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 296,
+            "avg_amount": 864.3888851351351,
+            "parent_agency": "Department of Finance"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 14630,
+        "avg_amount": 149758.84996582364,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "City University Construction Fund",
+      "value": 1450524393.4499998,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 1450524393.4499998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 717,
+            "avg_amount": 2023046.573849372,
+            "parent_agency": "City University Construction Fund"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 717,
+        "avg_amount": 2023046.573849372,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Youth and Community Development",
+      "value": 1209002596.07,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 608044525.44,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9357,
+            "avg_amount": 64982.849785187565,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "YOUTH WORKFORCE AND CAREER TRAINING OTPS",
+          "value": 258491132.74999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2117,
+            "avg_amount": 122102.56624940953,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "OFFICE OF NEIGHBORHOOD SAFETY- OTPS",
+          "value": 132932143.49000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 543,
+            "avg_amount": 244810.5773296501,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "COMMUNITY DEVELOPMENT OTPS",
+          "value": 107326092.52,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3327,
+            "avg_amount": 32259.120084159902,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "RUNAWAY AND HOMELESS YOUTH",
+          "value": 43022460.33,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 381,
+            "avg_amount": 112919.84338582677,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "EXECUTIVE AND ADMINISTRATIVE MGMT PS",
+          "value": 29382267.62,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 805,
+            "avg_amount": 36499.71132919255,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "PROGRAM SERVICES - PS",
+          "value": 20057574.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1499,
+            "avg_amount": 13380.63674449633,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "YOUTH WORKFORCE AND CAREER TRAINING - PS",
+          "value": 7893641.219999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 497,
+            "avg_amount": 15882.577907444665,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "OFFICE OF NEIGHBORHOOD SAFETY- PS",
+          "value": 1849554.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 59,
+            "avg_amount": 31348.38508474576,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 3200.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3200.0,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 3.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3.5,
+            "parent_agency": "Department of Youth and Community Development"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 18587,
+        "avg_amount": 65045.60155323613,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Parks and Recreation",
+      "value": 1175664510.55,
+      "children": [
+        {
+          "name": "MAINTENANCE & OPERATIONS",
+          "value": 414354742.78999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13498,
+            "avg_amount": 30697.49168691658,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-352",
+          "value": 131114032.22000001,
+          "budget_code": "400-846-352",
+          "metadata": {
+            "total_records": 1308,
+            "avg_amount": 100240.08579510705,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "MAINT & OPERATIONS - OTPS",
+          "value": 101802598.41000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 23920,
+            "avg_amount": 4255.961471989967,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "DESIGN & ENGINEERING",
+          "value": 53696742.89000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1341,
+            "avg_amount": 40042.31386278897,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-506",
+          "value": 45075516.769999996,
+          "budget_code": "400-846-506",
+          "metadata": {
+            "total_records": 106,
+            "avg_amount": 425240.724245283,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-114",
+          "value": 40645457.3,
+          "budget_code": "400-846-114",
+          "metadata": {
+            "total_records": 179,
+            "avg_amount": 227069.5938547486,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "RECREATION SERVICES",
+          "value": 35800917.68,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2104,
+            "avg_amount": 17015.645285171104,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-118",
+          "value": 34919588.35,
+          "budget_code": "400-846-118",
+          "metadata": {
+            "total_records": 183,
+            "avg_amount": 190817.42267759563,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-204",
+          "value": 30314594.18,
+          "budget_code": "400-846-204",
+          "metadata": {
+            "total_records": 41,
+            "avg_amount": 739380.3458536585,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D19",
+          "value": 28858879.18,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 370,
+            "avg_amount": 77996.97075675675,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D17",
+          "value": 28109413.279999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 230,
+            "avg_amount": 122214.84034782607,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-178",
+          "value": 22837454.23,
+          "budget_code": "400-846-178",
+          "metadata": {
+            "total_records": 259,
+            "avg_amount": 88175.49895752897,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D21",
+          "value": 22537032.549999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 206,
+            "avg_amount": 109403.07063106795,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-116",
+          "value": 21816706.18,
+          "budget_code": "400-846-116",
+          "metadata": {
+            "total_records": 178,
+            "avg_amount": 122565.76505617978,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-508",
+          "value": 18429920.77,
+          "budget_code": "400-846-508",
+          "metadata": {
+            "total_records": 72,
+            "avg_amount": 255971.12180555554,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "EXEC MGMT & ADMIN",
+          "value": 10900559.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 660,
+            "avg_amount": 16515.998863636363,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D18",
+          "value": 10737838.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 202,
+            "avg_amount": 53157.618514851485,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D20",
+          "value": 9118212.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 76,
+            "avg_amount": 119976.48092105264,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-X45",
+          "value": 8926792.88,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 53,
+            "avg_amount": 168430.05433962267,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-448",
+          "value": 8632698.879999999,
+          "budget_code": "400-846-448",
+          "metadata": {
+            "total_records": 64,
+            "avg_amount": 134885.91999999998,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-465",
+          "value": 8104662.22,
+          "budget_code": "400-846-465",
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 176188.3091304348,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-115",
+          "value": 7068480.719999999,
+          "budget_code": "400-846-115",
+          "metadata": {
+            "total_records": 65,
+            "avg_amount": 108745.85723076921,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-510",
+          "value": 7068068.010000001,
+          "budget_code": "400-846-510",
+          "metadata": {
+            "total_records": 30,
+            "avg_amount": 235602.26700000002,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "EXEC MGT/ADMIN SVCS-OTPS",
+          "value": 6503525.489999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1097,
+            "avg_amount": 5928.464439380127,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-264",
+          "value": 5577409.43,
+          "budget_code": "400-846-264",
+          "metadata": {
+            "total_records": 57,
+            "avg_amount": 97849.28824561404,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-505",
+          "value": 5234533.359999999,
+          "budget_code": "400-846-505",
+          "metadata": {
+            "total_records": 89,
+            "avg_amount": 58814.9815730337,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-501",
+          "value": 4254189.13,
+          "budget_code": "400-846-501",
+          "metadata": {
+            "total_records": 40,
+            "avg_amount": 106354.72825,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-143",
+          "value": 4056918.9200000004,
+          "budget_code": "400-846-143",
+          "metadata": {
+            "total_records": 150,
+            "avg_amount": 27046.126133333335,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-230",
+          "value": 3886698.4399999995,
+          "budget_code": "400-846-230",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 555242.6342857142,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D22",
+          "value": 3606565.62,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 32,
+            "avg_amount": 112705.175625,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-117",
+          "value": 3222804.8899999997,
+          "budget_code": "400-846-117",
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 214853.65933333331,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-Q45",
+          "value": 2631290.5399999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 74,
+            "avg_amount": 35557.980270270265,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-113",
+          "value": 2542085.01,
+          "budget_code": "400-846-113",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 508417.002,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-155",
+          "value": 2406857.07,
+          "budget_code": "400-846-155",
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 82995.07137931034,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-K11",
+          "value": 2196327.8200000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 59360.21135135136,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-294",
+          "value": 2079960.26,
+          "budget_code": "400-846-294",
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 173330.02166666667,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-419",
+          "value": 1921541.49,
+          "budget_code": "400-846-419",
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 106752.305,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "DESIGN & ENGINEERING-OTPS",
+          "value": 1789729.7200000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1353,
+            "avg_amount": 1322.7861936437548,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 1646816.5899999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 124,
+            "avg_amount": 13280.778951612901,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "RECREATION SERVICES-OTPS",
+          "value": 1621957.68,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1490,
+            "avg_amount": 1088.562201342282,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-201",
+          "value": 1600438.4899999998,
+          "budget_code": "400-846-201",
+          "metadata": {
+            "total_records": 28,
+            "avg_amount": 57158.517499999994,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-455",
+          "value": 1527950.7,
+          "budget_code": "400-846-455",
+          "metadata": {
+            "total_records": 25,
+            "avg_amount": 61118.028,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-324",
+          "value": 1469229.8599999999,
+          "budget_code": "400-846-324",
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 31939.779565217388,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-126",
+          "value": 1259793.41,
+          "budget_code": "400-846-126",
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 96907.18538461538,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-M45",
+          "value": 1246033.71,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 23,
+            "avg_amount": 54175.37869565217,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-447",
+          "value": 1223196.1500000001,
+          "budget_code": "400-846-447",
+          "metadata": {
+            "total_records": 40,
+            "avg_amount": 30579.903750000005,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-451",
+          "value": 1137764.44,
+          "budget_code": "400-846-451",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1137764.44,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-121",
+          "value": 1082362.1400000001,
+          "budget_code": "400-846-121",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 135295.26750000002,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-443",
+          "value": 1039066.0400000002,
+          "budget_code": "400-846-443",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 148438.00571428574,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-202",
+          "value": 964199.35,
+          "budget_code": "400-846-202",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 120524.91875,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-R45",
+          "value": 951448.77,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 79287.3975,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION OF AND IMPR",
+          "value": 871981.17,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 48443.39833333334,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-463",
+          "value": 851262.17,
+          "budget_code": "400-846-463",
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 65481.70538461539,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-104",
+          "value": 772508.28,
+          "budget_code": "400-846-104",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 386254.14,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-351",
+          "value": 757535.35,
+          "budget_code": "400-846-351",
+          "metadata": {
+            "total_records": 30,
+            "avg_amount": 25251.178333333333,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-142",
+          "value": 516187.56999999995,
+          "budget_code": "400-846-142",
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 30363.97470588235,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-392",
+          "value": 382117.58,
+          "budget_code": "400-846-392",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 54588.22571428572,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-K33",
+          "value": 305450.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 101816.66666666667,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-145",
+          "value": 281748.28,
+          "budget_code": "400-846-145",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 93916.09333333334,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-Q02",
+          "value": 241504.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 20125.359166666665,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-381",
+          "value": 207426.08000000002,
+          "budget_code": "400-846-381",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 69142.02666666667,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-206",
+          "value": 205331.04,
+          "budget_code": "400-846-206",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 51332.76,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-445",
+          "value": 180095.45,
+          "budget_code": "400-846-445",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 180095.45,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-Q03",
+          "value": 175938.74000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 10996.171250000001,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-315",
+          "value": 97277.25,
+          "budget_code": "400-846-315",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 13896.75,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-D55",
+          "value": 69697.23000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 23232.410000000003,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-102",
+          "value": 49096.63999999999,
+          "budget_code": "400-846-102",
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 3776.664615384615,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-165",
+          "value": 35111.07,
+          "budget_code": "400-846-165",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 8777.7675,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-A11",
+          "value": 28940.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 7235.0,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-468",
+          "value": 26400.0,
+          "budget_code": "400-846-468",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 8800.0,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-274",
+          "value": 21396.24,
+          "budget_code": "400-846-274",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 4279.2480000000005,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-215",
+          "value": 9400.0,
+          "budget_code": "400-846-215",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 9400.0,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "GREEN STREETS, STREET AND PARK TREE REHA",
+          "value": 8550.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 8550.0,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-276",
+          "value": 5612.79,
+          "budget_code": "400-846-276",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 5612.79,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-269",
+          "value": 4760.0,
+          "budget_code": "400-846-269",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 4760.0,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-466",
+          "value": 3739.5,
+          "budget_code": "400-846-466",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 1869.75,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "400-846-M05",
+          "value": 3681.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3681.0,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 158.06,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 158.06,
+            "parent_agency": "Department of Parks and Recreation"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 50207,
+        "avg_amount": 23416.34653633955,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Information Technology and Telecommunications",
+      "value": 993528037.29,
+      "children": [
+        {
+          "name": "TECHNOLOGY SERVICES - OTPS",
+          "value": 467071749.92,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3930,
+            "avg_amount": 118847.77351653944,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "NEW YORK CITY CYBER COMMAND",
+          "value": 106799635.75000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 831,
+            "avg_amount": 128519.4172683514,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "911 TECHNICAL OPERATIONS - OTPS",
+          "value": 92448364.57000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1266,
+            "avg_amount": 73023.98465244866,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "TECHNOLOGY SERVICES - PS",
+          "value": 84692319.36,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3159,
+            "avg_amount": 26809.85101614435,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "400-858-100",
+          "value": 78410170.84000002,
+          "budget_code": "400-858-100",
+          "metadata": {
+            "total_records": 437,
+            "avg_amount": 179428.30855835244,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "ADMIN/OPERATIONS OTPS",
+          "value": 39887034.00000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 624,
+            "avg_amount": 63921.52884615386,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "311 OTPS",
+          "value": 39187491.67,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 427,
+            "avg_amount": 91773.98517564403,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "311 PS",
+          "value": 20944281.980000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 510,
+            "avg_amount": 41067.21956862746,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "911 TECHNICAL OPERATIONS- PS",
+          "value": 20943113.81,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 968,
+            "avg_amount": 21635.448150826443,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "ADMIN/OPERATIONS PS",
+          "value": 20771465.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1513,
+            "avg_amount": 13728.662167878387,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "MAYOR'S OFFICE OF MEDIA & ENTERTAINMENT",
+          "value": 15670633.689999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1247,
+            "avg_amount": 12566.666952686446,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "400-858-101",
+          "value": 5151858.61,
+          "budget_code": "400-858-101",
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 858643.1016666667,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 973636.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 60,
+            "avg_amount": 16227.2705,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 576260.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 576260.0,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 21.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 7.0,
+            "parent_agency": "Department of Information Technology and Telecommunications"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 14982,
+        "avg_amount": 66314.78022226672,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "OFFICE OF CRIMINAL JUSTICE",
+      "value": 918173936.87,
+      "children": [
+        {
+          "name": "INDIGENT DEFENSE - OTPS",
+          "value": 614887468.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 66234,
+            "avg_amount": 9283.562340187818,
+            "parent_agency": "OFFICE OF CRIMINAL JUSTICE"
+          }
+        },
+        {
+          "name": "PROGRAMS - OTPS",
+          "value": 285519552.77,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 738,
+            "avg_amount": 386882.8628319783,
+            "parent_agency": "OFFICE OF CRIMINAL JUSTICE"
+          }
+        },
+        {
+          "name": "OFFICE OF CRIMINAL JUSTICE - OTPS",
+          "value": 8476360.780000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 194,
+            "avg_amount": 43692.58134020619,
+            "parent_agency": "OFFICE OF CRIMINAL JUSTICE"
+          }
+        },
+        {
+          "name": "OFFICE OF CRIMINAL JUSTICE - PS",
+          "value": 7936835.640000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 263,
+            "avg_amount": 30178.082281368825,
+            "parent_agency": "OFFICE OF CRIMINAL JUSTICE"
+          }
+        },
+        {
+          "name": "OFFICE OF SPECIAL ENFORCEMENT - OTPS",
+          "value": 861118.5999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 28,
+            "avg_amount": 30754.23571428571,
+            "parent_agency": "OFFICE OF CRIMINAL JUSTICE"
+          }
+        },
+        {
+          "name": "OFFICE OF SPECIAL ENFORCEMENT - PS",
+          "value": 492601.04000000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 33,
+            "avg_amount": 14927.304242424243,
+            "parent_agency": "OFFICE OF CRIMINAL JUSTICE"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 67490,
+        "avg_amount": 13604.592337679656,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Small Business Services",
+      "value": 795623222.8400002,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 157751634.89000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 192,
+            "avg_amount": 821623.0983854168,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-201",
+          "value": 140095104.01,
+          "budget_code": "400-801-201",
+          "metadata": {
+            "total_records": 578,
+            "avg_amount": 242379.07268166088,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-219",
+          "value": 87482458.89,
+          "budget_code": "400-801-219",
+          "metadata": {
+            "total_records": 367,
+            "avg_amount": 238371.82258855586,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-205",
+          "value": 75079945.45,
+          "budget_code": "400-801-205",
+          "metadata": {
+            "total_records": 66,
+            "avg_amount": 1137574.9310606061,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "WORKFORCE INVESTMENT ACT - OTPS",
+          "value": 74962162.92,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 790,
+            "avg_amount": 94888.81382278481,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "ECONOMIC DEVELOPMENT CORP.",
+          "value": 63426227.59,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 499,
+            "avg_amount": 127106.66851703408,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "DEPT. OF BUSINESS O.T.P.S.",
+          "value": 42568366.03999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1619,
+            "avg_amount": 26292.999407041378,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "TRUST FOR GOVERNOR'S ISLAND AND NYC & CO",
+          "value": 36163358.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 2781796.769230769,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-245",
+          "value": 25115734.270000003,
+          "budget_code": "400-801-245",
+          "metadata": {
+            "total_records": 139,
+            "avg_amount": 180688.7357553957,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-244",
+          "value": 20442623.11,
+          "budget_code": "400-801-244",
+          "metadata": {
+            "total_records": 58,
+            "avg_amount": 352459.019137931,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "DEPT. OF BUSINESS P.S.",
+          "value": 18537137.58,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1755,
+            "avg_amount": 10562.471555555554,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-243",
+          "value": 16583371.040000001,
+          "budget_code": "400-801-243",
+          "metadata": {
+            "total_records": 253,
+            "avg_amount": 65546.92110671937,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-214",
+          "value": 8773433.67,
+          "budget_code": "400-801-214",
+          "metadata": {
+            "total_records": 63,
+            "avg_amount": 139260.8519047619,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "WORKFORCE INVESTMENT ACT - PS",
+          "value": 8413805.85,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 932,
+            "avg_amount": 9027.68868025751,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "CONTRACT COMP & BUS. OPP - PS",
+          "value": 3867456.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 196,
+            "avg_amount": 19731.919846938777,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-242",
+          "value": 3755443.89,
+          "budget_code": "400-801-242",
+          "metadata": {
+            "total_records": 27,
+            "avg_amount": 139090.51444444444,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "CONTRACT COMP & BUS OPP - OTPS",
+          "value": 2974046.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 157,
+            "avg_amount": 18942.97299363057,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-D75",
+          "value": 2944015.56,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 184000.9725,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-D03",
+          "value": 1523124.1300000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 190390.51625000002,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, ACQUISITIO",
+          "value": 974230.37,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 487115.185,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-M75",
+          "value": 971034.2000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 194206.84000000003,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-Q84",
+          "value": 652391.8800000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 130478.37600000002,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-K11",
+          "value": 545692.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 181897.37333333332,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-K75",
+          "value": 527151.43,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 65893.92875,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-M03",
+          "value": 334800.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 111600.0,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-D02",
+          "value": 266789.73,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 266789.73,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-AC6",
+          "value": 225233.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 225233.0,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-X03",
+          "value": 223259.07,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 44651.814,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-AB6",
+          "value": 195891.87,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 97945.935,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-A53",
+          "value": 119246.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 119246.12,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-D84",
+          "value": 96533.87,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 6895.276428571428,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-D40",
+          "value": 21825.96,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 7275.32,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-218",
+          "value": 8643.26,
+          "budget_code": "400-801-218",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 8643.26,
+            "parent_agency": "Department of Small Business Services"
+          }
+        },
+        {
+          "name": "400-801-K04",
+          "value": 1050.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1050.02,
+            "parent_agency": "Department of Small Business Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 7783,
+        "avg_amount": 102225.77705768986,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Transit Authority",
+      "value": 733550047.5199999,
+      "children": [
+        {
+          "name": "400-998-169",
+          "value": 724370407.47,
+          "budget_code": "400-998-169",
+          "metadata": {
+            "total_records": 198,
+            "avg_amount": 3658436.4013636364,
+            "parent_agency": "Transit Authority"
+          }
+        },
+        {
+          "name": "400-998-101",
+          "value": 5341657.340000002,
+          "budget_code": "400-998-101",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 763093.9057142859,
+            "parent_agency": "Transit Authority"
+          }
+        },
+        {
+          "name": "400-998-05A",
+          "value": 2840000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 710000.0,
+            "parent_agency": "Transit Authority"
+          }
+        },
+        {
+          "name": "400-998-07A",
+          "value": 997982.71,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 199596.542,
+            "parent_agency": "Transit Authority"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 214,
+        "avg_amount": 3427803.960373831,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department for the Aging",
+      "value": 496313894.31000006,
+      "children": [
+        {
+          "name": "OUT-OF-HOME SERVICES",
+          "value": 352283750.46000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7604,
+            "avg_amount": 46328.74151236192,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "IN HOME SERVICES",
+          "value": 107198544.85000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 935,
+            "avg_amount": 114650.85010695188,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "EXECUTIVE & ADMIN MGMT - PS",
+          "value": 18893095.910000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1526,
+            "avg_amount": 12380.796795543909,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "COMMUNITY PROGRAMS - PS",
+          "value": 10681455.280000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1609,
+            "avg_amount": 6638.5676072094475,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "EXECUTIVE & ADMIN MGMT-OTPS",
+          "value": 4045615.7900000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 433,
+            "avg_amount": 9343.223533487298,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "IN HOME SERVICES - PS",
+          "value": 2104312.33,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 433,
+            "avg_amount": 4859.843718244804,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-A20",
+          "value": 210000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 210000.0,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-A45",
+          "value": 188862.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 188862.0,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-A06",
+          "value": 175963.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 175963.23,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-X84",
+          "value": 157000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 157000.0,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-A14",
+          "value": 154930.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 154930.0,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-101",
+          "value": 118732.52,
+          "budget_code": "400-125-101",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 59366.26,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "400-125-D01",
+          "value": 59918.09,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 59918.09,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 41706.85,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 25,
+            "avg_amount": 1668.274,
+            "parent_agency": "Department for the Aging"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 7.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 3.5,
+            "parent_agency": "Department for the Aging"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 12575,
+        "avg_amount": 39468.301734393644,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Cultural Affairs",
+      "value": 345918040.83,
+      "children": [
+        {
+          "name": "CULTURAL PROGRAMS",
+          "value": 90637911.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3408,
+            "avg_amount": 26595.631161971833,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "OTHER CULTURAL INSTITUTIONS",
+          "value": 20230560.490000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 296,
+            "avg_amount": 68346.4881418919,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-228",
+          "value": 17925756.929999996,
+          "budget_code": "400-126-228",
+          "metadata": {
+            "total_records": 119,
+            "avg_amount": 150636.6128571428,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "THE WILDLIFE CONSERVATION SOC.",
+          "value": 15713622.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 50,
+            "avg_amount": 314272.4498,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "AMER MUSEUM NATURAL HISTORY",
+          "value": 14380715.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 684795.999047619,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "METROPOLITAN MUSEUM OF ART",
+          "value": 13268245.3,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 829265.33125,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-201",
+          "value": 12906001.450000001,
+          "budget_code": "400-126-201",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 1613250.1812500001,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-280",
+          "value": 12108143.690000001,
+          "budget_code": "400-126-280",
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 1729734.812857143,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "BROOKLYN MUSEUM",
+          "value": 11229392.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 23,
+            "avg_amount": 488234.4586956522,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-208",
+          "value": 9220510.35,
+          "budget_code": "400-126-208",
+          "metadata": {
+            "total_records": 26,
+            "avg_amount": 354635.0134615385,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "NY BOTANICAL GARDEN",
+          "value": 8180488.59,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 545365.906,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "BROOKLYN ACADEMY OF MUSIC",
+          "value": 7899555.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 415766.05263157893,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "OFFICE OF COMMISSIONER-PS",
+          "value": 6022723.009999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 989,
+            "avg_amount": 6089.709817997977,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "BROOKLYN BOTANIC GARDEN",
+          "value": 5668342.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 314907.94111111114,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D35",
+          "value": 4822090.1899999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 688870.0271428571,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-237",
+          "value": 4524110.18,
+          "budget_code": "400-126-237",
+          "metadata": {
+            "total_records": 20,
+            "avg_amount": 226205.509,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B24",
+          "value": 4073971.5500000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 254623.22187500002,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-221",
+          "value": 3550564.14,
+          "budget_code": "400-126-221",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3550564.14,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D71",
+          "value": 3126454.57,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 164550.24052631579,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D62",
+          "value": 3125646.24,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 312564.624,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-246",
+          "value": 3000279.0100000002,
+          "budget_code": "400-126-246",
+          "metadata": {
+            "total_records": 38,
+            "avg_amount": 78954.71078947368,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q13",
+          "value": 2906912.07,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 193794.13799999998,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "BKLYN CHILDREN'S MUSEUM",
+          "value": 2880968.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 160053.77777777778,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "SNUG HARBOR CULTURAL CENTER",
+          "value": 2557233.09,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 21,
+            "avg_amount": 121773.00428571428,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "S.I. ZOOLOGICAL SOCIETY",
+          "value": 2553354.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 150197.29411764705,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D15",
+          "value": 2524375.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 504875.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-209",
+          "value": 2476946.2699999996,
+          "budget_code": "400-126-209",
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 495389.2539999999,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-297",
+          "value": 2432689.8800000004,
+          "budget_code": "400-126-297",
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 162179.32533333337,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-204",
+          "value": 2420605.84,
+          "budget_code": "400-126-204",
+          "metadata": {
+            "total_records": 16,
+            "avg_amount": 151287.865,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "OFFICE OF COMMISSIONER - OTPS",
+          "value": 2240040.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 575,
+            "avg_amount": 3895.722591304348,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "WAVE HILL",
+          "value": 2185800.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 20,
+            "avg_amount": 109290.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "NY HALL OF SCIENCE",
+          "value": 2159986.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 119999.22222222222,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D25",
+          "value": 2013550.73,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 1006775.365,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "MUSEUM OF THE CITY OF NY",
+          "value": 1987173.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 141940.92857142858,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-K02",
+          "value": 1900378.5999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 633459.5333333333,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-K01",
+          "value": 1851600.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 617200.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AX8",
+          "value": 1834106.6600000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 152842.22166666668,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "QUEENS BOTANICAL GARDEN",
+          "value": 1596801.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 122830.84615384616,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-K04",
+          "value": 1590648.9400000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 318129.78800000006,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-263",
+          "value": 1425000.0,
+          "budget_code": "400-126-263",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1425000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-202",
+          "value": 1424396.34,
+          "budget_code": "400-126-202",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1424396.34,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q03",
+          "value": 1351610.6900000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 270322.13800000004,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "SI INSTITUTE ARTS & SCIENCES",
+          "value": 1333421.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 74078.94444444444,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "S I HISTORICAL SOCIETY",
+          "value": 1133093.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 62949.61111111111,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D50",
+          "value": 1080150.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1080150.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-212",
+          "value": 987137.29,
+          "budget_code": "400-126-212",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 51954.59421052632,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D67",
+          "value": 980661.2999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 45,
+            "avg_amount": 21792.47333333333,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "STUDIO MUSEUM IN HARLEM",
+          "value": 939446.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 67103.28571428571,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D77",
+          "value": 924254.36,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 61616.95733333333,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "N.Y.SHAKESPEARE FESTIVAL",
+          "value": 920869.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 65776.35714285714,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B14",
+          "value": 854647.4,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 94960.82222222222,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-238",
+          "value": 782745.3300000001,
+          "budget_code": "400-126-238",
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 65228.777500000004,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AN8",
+          "value": 758624.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 758624.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A90",
+          "value": 711708.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 237236.09333333335,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A81",
+          "value": 686591.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 228863.68000000002,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A58",
+          "value": 681803.78,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 340901.89,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D63",
+          "value": 597553.68,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 119510.736,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-222",
+          "value": 592668.14,
+          "budget_code": "400-126-222",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 296334.07,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-K06",
+          "value": 588039.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 84005.70571428571,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A02",
+          "value": 575000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 287500.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AI1",
+          "value": 563527.53,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 62614.170000000006,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A49",
+          "value": 545927.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 545927.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M02",
+          "value": 500000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 250000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-R01",
+          "value": 497150.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 165716.90666666665,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AI6",
+          "value": 454119.80000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 227059.90000000002,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AA5",
+          "value": 451000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 451000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D26",
+          "value": 445381.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 445381.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AO4",
+          "value": 395311.01,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 79062.202,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-R05",
+          "value": 393993.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 49249.2,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AN7",
+          "value": 375685.69,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 53669.38428571429,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "CONSTRUCTION, RECONSTRUCTION, ACQUISITIO",
+          "value": 365646.97000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 26117.640714285717,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AN9",
+          "value": 354127.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 177063.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A60",
+          "value": 345220.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 345220.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A80",
+          "value": 325262.91000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 40657.863750000004,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-X04",
+          "value": 300000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7,
+            "avg_amount": 42857.142857142855,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AQ0",
+          "value": 296125.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 148062.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-313",
+          "value": 284718.89,
+          "budget_code": "400-126-313",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 71179.7225,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B78",
+          "value": 281469.81,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 140734.905,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M52",
+          "value": 273225.51,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 273225.51,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D05",
+          "value": 247467.27999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 30933.409999999996,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AV1",
+          "value": 242859.62,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 121429.81,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-291",
+          "value": 236023.03999999998,
+          "budget_code": "400-126-291",
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 12422.265263157893,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AW7",
+          "value": 221521.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 110760.875,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AV8",
+          "value": 219590.3,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 109795.15,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-261",
+          "value": 211812.06,
+          "budget_code": "400-126-261",
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 26476.5075,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M05",
+          "value": 200000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 200000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-X05",
+          "value": 193295.63,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 12886.375333333333,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-300",
+          "value": 192812.08999999997,
+          "budget_code": "400-126-300",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 48203.02249999999,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-203",
+          "value": 189337.49,
+          "budget_code": "400-126-203",
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 13524.106428571427,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-X10",
+          "value": 180000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 180000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D45",
+          "value": 166600.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 166600.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-K26",
+          "value": 166122.79,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 55374.263333333336,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B94",
+          "value": 155090.2,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 155090.2,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D39",
+          "value": 152104.63999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 50701.54666666666,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A12",
+          "value": 151183.78999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 25197.29833333333,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-354",
+          "value": 145000.0,
+          "budget_code": "400-126-354",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 145000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D31",
+          "value": 141563.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 47187.920000000006,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D01",
+          "value": 138896.92,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 69448.46,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A73",
+          "value": 124464.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 124464.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-219",
+          "value": 123025.73000000001,
+          "budget_code": "400-126-219",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 41008.57666666667,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AG7",
+          "value": 122977.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 122977.02,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M24",
+          "value": 120000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 120000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A87",
+          "value": 118470.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 118470.76,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D52",
+          "value": 117312.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 39104.32666666667,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D83",
+          "value": 111889.64,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 22377.928,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q02",
+          "value": 103909.9,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 51954.95,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AD4",
+          "value": 102846.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 34282.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B16",
+          "value": 100550.74,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 50275.37,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D13",
+          "value": 100000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 33333.333333333336,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-359",
+          "value": 99998.0,
+          "budget_code": "400-126-359",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 49999.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AS6",
+          "value": 99179.66,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 99179.66,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-R08",
+          "value": 99015.2,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 24753.8,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-294",
+          "value": 98412.11,
+          "budget_code": "400-126-294",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 32804.03666666667,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D24",
+          "value": 95015.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 47507.875,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B75",
+          "value": 93867.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 31289.326666666664,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M07",
+          "value": 93100.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 93100.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A86",
+          "value": 92115.41,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 18423.082000000002,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AI8",
+          "value": 89862.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 44931.24,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AN5",
+          "value": 82815.21,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 16563.042,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-311",
+          "value": 81149.0,
+          "budget_code": "400-126-311",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 27049.666666666668,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-276",
+          "value": 77948.44,
+          "budget_code": "400-126-276",
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 38974.22,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M14",
+          "value": 74000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 74000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AI0",
+          "value": 73605.96,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 36802.98,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AQ1",
+          "value": 73227.8,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 73227.8,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B87",
+          "value": 71618.17,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 35809.085,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AO5",
+          "value": 67789.48000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 22596.493333333336,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B13",
+          "value": 67291.81,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 67291.81,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A29",
+          "value": 63363.51,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 21121.170000000002,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D60",
+          "value": 62000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 62000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B28",
+          "value": 51766.22,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 25883.11,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A13",
+          "value": 51406.44,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 25703.22,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-241",
+          "value": 51336.98000000001,
+          "budget_code": "400-126-241",
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 2852.054444444445,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M32",
+          "value": 50000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 50000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AC9",
+          "value": 46925.67,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 23462.835,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-X46",
+          "value": 39229.38,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 13076.46,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q16",
+          "value": 36378.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 9094.5625,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AZ1",
+          "value": 36000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 36000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AR6",
+          "value": 35850.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 17925.02,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AI3",
+          "value": 35000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 35000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D08",
+          "value": 34060.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 17030.155,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AV9",
+          "value": 32789.89,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 32789.89,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D02",
+          "value": 31853.66,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 31853.66,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-355",
+          "value": 31579.86,
+          "budget_code": "400-126-355",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 10526.62,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AY3",
+          "value": 30265.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 30265.86,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D32",
+          "value": 28946.39,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 4824.3983333333335,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AG3",
+          "value": 28025.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 5605.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AM4",
+          "value": 26890.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 26890.02,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B62",
+          "value": 25959.149999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 6489.787499999999,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B06",
+          "value": 25792.67,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 12896.335,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B81",
+          "value": 23325.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 23325.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B67",
+          "value": 22286.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 11143.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M23",
+          "value": 21500.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 21500.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AK7",
+          "value": 18340.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 6113.333333333333,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A28",
+          "value": 17745.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 2957.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M30",
+          "value": 17125.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 17125.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AP4",
+          "value": 11837.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 11837.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-216",
+          "value": 11022.6,
+          "budget_code": "400-126-216",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 11022.6,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D09",
+          "value": 10867.009999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 2173.4019999999996,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-R02",
+          "value": 10111.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 5055.655,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-262",
+          "value": 9500.5,
+          "budget_code": "400-126-262",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 9500.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A16",
+          "value": 9456.45,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 1576.075,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-217",
+          "value": 8607.89,
+          "budget_code": "400-126-217",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 8607.89,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-D20",
+          "value": 7500.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 7500.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AQ5",
+          "value": 5169.74,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 1033.9479999999999,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-M44",
+          "value": 5114.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 5114.12,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A77",
+          "value": 5000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 5000.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q07",
+          "value": 3534.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3534.28,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q05",
+          "value": 3113.6800000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 1037.8933333333334,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-226",
+          "value": 3068.45,
+          "budget_code": "400-126-226",
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3068.45,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-Q06",
+          "value": 2856.14,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 2856.14,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-A94",
+          "value": 2077.54,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 2077.54,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-AM1",
+          "value": 1085.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1085.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "400-126-B34",
+          "value": 55.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 55.0,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 14.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 3.5,
+            "parent_agency": "Department of Cultural Affairs"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 6462,
+        "avg_amount": 53531.11123955432,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Mayoralty",
+      "value": 323615245.74000007,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 86488599.59,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 77,
+            "avg_amount": 1123228.5661038961,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 61252290.099999994,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 291,
+            "avg_amount": 210488.96941580754,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF MGMT AND BUDGET-PS",
+          "value": 50178993.93,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1632,
+            "avg_amount": 30746.932555147057,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF THE MAYOR-PS",
+          "value": 35905780.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 813,
+            "avg_amount": 44164.55178351784,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "INDIGENT DEFENSE SERVICES",
+          "value": 24186305.409999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 57,
+            "avg_amount": 424321.1475438596,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "MAYOR'S OFFICE OF CONTRACT SERVICES - PS",
+          "value": 20020906.85,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 884,
+            "avg_amount": 22648.084671945704,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFF OF LABOR RELATIONS-PS",
+          "value": 15994587.97,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 948,
+            "avg_amount": 16871.928238396624,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "MAYOR'S OFFICE OF CONTRACT SERVICES-OTPS",
+          "value": 14077676.44,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 276,
+            "avg_amount": 51006.07405797101,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF OPERATIONS-PS",
+          "value": 5683025.039999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 144,
+            "avg_amount": 39465.45166666666,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF THE MAYOR-OTPS",
+          "value": 2853238.21,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1579,
+            "avg_amount": 1806.9906333122228,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "COMMUNITY AFFAIRS UNIT-PS",
+          "value": 2084156.2400000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 34,
+            "avg_amount": 61298.712941176476,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF MGMT AND BUDGET-OTPS",
+          "value": 1457692.1700000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 427,
+            "avg_amount": 3413.7989929742394,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFF OF LABOR RELATIONS-OTPS",
+          "value": 1096463.55,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 727,
+            "avg_amount": 1508.2029573590096,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "NYC COMM TO THE UN-PS",
+          "value": 946846.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 31,
+            "avg_amount": 30543.44387096774,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFF FOR PEOPLE WITH DISAB-PS",
+          "value": 495123.63,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 27,
+            "avg_amount": 18337.91222222222,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "COMMISSION ON GENDER EQUITY-PS",
+          "value": 464706.74,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 28,
+            "avg_amount": 16596.669285714284,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "NYC COMM TO THE UN-OTPS",
+          "value": 221938.81999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 71,
+            "avg_amount": 3125.8988732394364,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF OPERATIONS-OTPS",
+          "value": 62651.659999999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 51,
+            "avg_amount": 1228.4639215686275,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "COMMISSION ON GENDER EQUITY-OTPS",
+          "value": 57695.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 11539.052,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 38635.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 38635.5,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFFICE OF CONSTRUCTION OTPS",
+          "value": 19001.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 513.5475675675675,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "CRIMINAL JUSTICE PROGRAMS PS",
+          "value": 12072.15,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 4024.0499999999997,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "COMMUNITY AFFAIRS UNIT-OTPS",
+          "value": 9008.939999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 3002.9799999999996,
+            "parent_agency": "Mayoralty"
+          }
+        },
+        {
+          "name": "OFF FOR PEOPLE WITH DISAB-OTPS",
+          "value": 7848.92,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 2616.306666666667,
+            "parent_agency": "Mayoralty"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 8149,
+        "avg_amount": 39712.264785863306,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Law Department",
+      "value": 311463304.03999996,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 164492367.07000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4243,
+            "avg_amount": 38767.9394461466,
+            "parent_agency": "Law Department"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 146970901.96999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 21844,
+            "avg_amount": 6728.20463147775,
+            "parent_agency": "Law Department"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 35.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 7.0,
+            "parent_agency": "Law Department"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 26092,
+        "avg_amount": 11937.118811896366,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "WATER SUPPLY",
+      "value": 246103261.04,
+      "children": [
+        {
+          "name": "400-085-209",
+          "value": 88241643.5,
+          "budget_code": "400-085-209",
+          "metadata": {
+            "total_records": 106,
+            "avg_amount": 832468.3349056604,
+            "parent_agency": "WATER SUPPLY"
+          }
+        },
+        {
+          "name": "400-085-208",
+          "value": 74376815.2,
+          "budget_code": "400-085-208",
+          "metadata": {
+            "total_records": 205,
+            "avg_amount": 362813.7326829269,
+            "parent_agency": "WATER SUPPLY"
+          }
+        },
+        {
+          "name": "400-085-205",
+          "value": 45835785.14999999,
+          "budget_code": "400-085-205",
+          "metadata": {
+            "total_records": 27,
+            "avg_amount": 1697621.672222222,
+            "parent_agency": "WATER SUPPLY"
+          }
+        },
+        {
+          "name": "400-085-202",
+          "value": 37649017.19,
+          "budget_code": "400-085-202",
+          "metadata": {
+            "total_records": 153,
+            "avg_amount": 246072.00777777776,
+            "parent_agency": "WATER SUPPLY"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 491,
+        "avg_amount": 501228.6375560081,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "New York Public Library",
+      "value": 220732724.81,
+      "children": [
+        {
+          "name": "SYSTEMWIDE SERVICES",
+          "value": 119809569.63000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 124,
+            "avg_amount": 966206.2066935485,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-008",
+          "value": 26434389.73,
+          "budget_code": "400-037-008",
+          "metadata": {
+            "total_records": 409,
+            "avg_amount": 64631.759731051345,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "LUMP SUM-BORO OF MANHATTAN",
+          "value": 22764851.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 24,
+            "avg_amount": 948535.4583333334,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "LUMP SUM- BORO OF BRONX",
+          "value": 22308631.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 24,
+            "avg_amount": 929526.2916666666,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-D08",
+          "value": 13084357.490000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 254,
+            "avg_amount": 51513.21846456694,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "LUMP SUM-BORO OF STATEN ISL",
+          "value": 10371309.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 24,
+            "avg_amount": 432137.875,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-M01",
+          "value": 2730105.1700000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 30,
+            "avg_amount": 91003.50566666668,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "CONSULTANT & ADVISORY SVCS",
+          "value": 1362128.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 113510.66666666667,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-X01",
+          "value": 937701.66,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 30,
+            "avg_amount": 31256.722,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-R01",
+          "value": 524980.4,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 30,
+            "avg_amount": 17499.346666666668,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-D04",
+          "value": 256326.64999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 28480.738888888885,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-104",
+          "value": 76972.45999999999,
+          "budget_code": "400-037-104",
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 8552.495555555555,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-102",
+          "value": 52358.62,
+          "budget_code": "400-037-102",
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 3079.918823529412,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-D03",
+          "value": 18044.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 4511.0,
+            "parent_agency": "New York Public Library"
+          }
+        },
+        {
+          "name": "400-037-D09",
+          "value": 1000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 1000.0,
+            "parent_agency": "New York Public Library"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1001,
+        "avg_amount": 220512.2125974026,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Board of Elections",
+      "value": 214879315.66,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 118754383.91,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 855,
+            "avg_amount": 138894.01626900584,
+            "parent_agency": "Board of Elections"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 96124931.74999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4736,
+            "avg_amount": 20296.649440456076,
+            "parent_agency": "Board of Elections"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 5591,
+        "avg_amount": 38433.07380790556,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Design and Construction",
+      "value": 201796784.43999997,
+      "children": [
+        {
+          "name": "DESIGN & ENGINEERING PS",
+          "value": 107344404.33999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10424,
+            "avg_amount": 10297.81315617805,
+            "parent_agency": "Department of Design and Construction"
+          }
+        },
+        {
+          "name": "DESIGN & ENGINEERING OTPS",
+          "value": 34120028.96,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1906,
+            "avg_amount": 17901.37930745016,
+            "parent_agency": "Department of Design and Construction"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 32166345.449999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 608,
+            "avg_amount": 52905.173437499994,
+            "parent_agency": "Department of Design and Construction"
+          }
+        },
+        {
+          "name": "EXEC, ADMIN & CAPITAL PLANNING OTPS",
+          "value": 14063265.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 279,
+            "avg_amount": 50405.967741935485,
+            "parent_agency": "Department of Design and Construction"
+          }
+        },
+        {
+          "name": "EXEC, ADMIN & CAPITAL PLANNING PS",
+          "value": 8939156.06,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 716,
+            "avg_amount": 12484.854832402236,
+            "parent_agency": "Department of Design and Construction"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 5163584.63,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1032,
+            "avg_amount": 5003.47347868217,
+            "parent_agency": "Department of Design and Construction"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 14965,
+        "avg_amount": 13484.582989642497,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Buildings",
+      "value": 176030706.63000003,
+      "children": [
+        {
+          "name": "AGENCYWIDE OPERATIONS - PS",
+          "value": 70105667.50999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 7685,
+            "avg_amount": 9122.403059206245,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "ENFORCEMENT AND DEVELOPMENT - PS",
+          "value": 61779614.78999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4860,
+            "avg_amount": 12711.854895061726,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "AGENCYWIDE OPERATIONS - OTPS",
+          "value": 26328600.17,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1547,
+            "avg_amount": 17019.133917259212,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 6965567.419999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1161,
+            "avg_amount": 5999.627407407406,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "SUSTAINABILITY PERSONAL SERVICES",
+          "value": 6815939.17,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 318,
+            "avg_amount": 21433.770974842766,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "ENFORCEMENT AND DEVELOPMENT - OTPS",
+          "value": 3943342.47,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 90,
+            "avg_amount": 43814.916333333334,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 85943.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 21485.75,
+            "parent_agency": "Department of Buildings"
+          }
+        },
+        {
+          "name": "SUSTAINABILITY OTPS",
+          "value": 6032.099999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 1508.0249999999999,
+            "parent_agency": "Department of Buildings"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 15669,
+        "avg_amount": 11234.329352862342,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Public Library",
+      "value": 172544348.07000002,
+      "children": [
+        {
+          "name": "LUMP SUM",
+          "value": 139462048.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 99,
+            "avg_amount": 1408707.5555555555,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        },
+        {
+          "name": "400-038-105",
+          "value": 19638380.68,
+          "budget_code": "400-038-105",
+          "metadata": {
+            "total_records": 176,
+            "avg_amount": 111581.7084090909,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        },
+        {
+          "name": "400-038-D04",
+          "value": 11544211.64,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 129,
+            "avg_amount": 89490.0127131783,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        },
+        {
+          "name": "CITY COUNCIL FUNDS FOR THE CONSTRUCTION,",
+          "value": 745335.8500000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 149067.17,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        },
+        {
+          "name": "400-038-K01",
+          "value": 630150.3400000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 52512.52833333334,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        },
+        {
+          "name": "400-038-101",
+          "value": 440094.99,
+          "budget_code": "400-038-101",
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 110023.7475,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        },
+        {
+          "name": "400-038-103",
+          "value": 84126.57,
+          "budget_code": "400-038-103",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 28042.190000000002,
+            "parent_agency": "Brooklyn Public Library"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 428,
+        "avg_amount": 403141.0001635515,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "District Attorney - New York County",
+      "value": 171959062.02,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 171959062.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 596,
+            "avg_amount": 288521.91614093963,
+            "parent_agency": "District Attorney - New York County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 596,
+        "avg_amount": 288521.91614093963,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Campaign Finance Board",
+      "value": 164796141.7,
+      "children": [
+        {
+          "name": "ELECTION FUNDING",
+          "value": 112600000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 18766666.666666668,
+            "parent_agency": "Campaign Finance Board"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 33226294.84,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1649,
+            "avg_amount": 20149.360121285627,
+            "parent_agency": "Campaign Finance Board"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 18969843.36,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 710,
+            "avg_amount": 26718.08923943662,
+            "parent_agency": "Campaign Finance Board"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 3.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3.5,
+            "parent_agency": "Campaign Finance Board"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 2366,
+        "avg_amount": 69651.792772612,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Borough Public Library",
+      "value": 158361650.46,
+      "children": [
+        {
+          "name": "LUMP SUM",
+          "value": 139528290.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 30,
+            "avg_amount": 4650943.004,
+            "parent_agency": "Queens Borough Public Library"
+          }
+        },
+        {
+          "name": "400-039-D22",
+          "value": 12681046.28,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 139,
+            "avg_amount": 91230.54877697841,
+            "parent_agency": "Queens Borough Public Library"
+          }
+        },
+        {
+          "name": "400-039-109",
+          "value": 4233349.830000001,
+          "budget_code": "400-039-109",
+          "metadata": {
+            "total_records": 87,
+            "avg_amount": 48659.19344827587,
+            "parent_agency": "Queens Borough Public Library"
+          }
+        },
+        {
+          "name": "400-039-Q22",
+          "value": 1782961.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 137150.91846153844,
+            "parent_agency": "Queens Borough Public Library"
+          }
+        },
+        {
+          "name": "400-039-D01",
+          "value": 136002.28999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 34000.572499999995,
+            "parent_agency": "Queens Borough Public Library"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 273,
+        "avg_amount": 580079.3057142857,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "District Attorney - Bronx County",
+      "value": 131797554.69999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 120710516.89,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 960,
+            "avg_amount": 125740.12176041667,
+            "parent_agency": "District Attorney - Bronx County"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 11087034.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3230,
+            "avg_amount": 3432.5183622291024,
+            "parent_agency": "District Attorney - Bronx County"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 3.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3.5,
+            "parent_agency": "District Attorney - Bronx County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 4191,
+        "avg_amount": 31447.758219995227,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "District Attorney -Kings County",
+      "value": 128431624.94,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 128431624.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1294,
+            "avg_amount": 99251.64214837713,
+            "parent_agency": "District Attorney -Kings County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1294,
+        "avg_amount": 99251.64214837713,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of the Comptroller",
+      "value": 124389403.87999998,
+      "children": [
+        {
+          "name": "FIRST DEPUTY COMPT-PS",
+          "value": 46866436.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1015,
+            "avg_amount": 46173.82862068965,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "THIRD DEPUTY COMPT-OTPS",
+          "value": 20270943.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 468,
+            "avg_amount": 43313.98286324787,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "THIRD DEPUTY COMPT-PS",
+          "value": 16758009.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 200,
+            "avg_amount": 83790.0499,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "SECOND DEPUTY COMPT-PS",
+          "value": 15073786.969999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 487,
+            "avg_amount": 30952.33464065708,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "FIRST DEPUTY COMPT-OTPS",
+          "value": 10260793.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 850,
+            "avg_amount": 12071.522070588235,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "SECOND DEPUTY COMPT-OTPS",
+          "value": 9023143.81,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 363,
+            "avg_amount": 24857.145482093667,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "EXECUTIVE MANAGEMENT-PS",
+          "value": 3033557.78,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 85,
+            "avg_amount": 35688.91505882353,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 2885204.61,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 473,
+            "avg_amount": 6099.798329809725,
+            "parent_agency": "Office of the Comptroller"
+          }
+        },
+        {
+          "name": "EXECUTIVE MANAGEMENT-OTPS",
+          "value": 217526.94,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 204,
+            "avg_amount": 1066.3085294117648,
+            "parent_agency": "Office of the Comptroller"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 4145,
+        "avg_amount": 30009.506364294324,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Financial Information Services Agency",
+      "value": 122568991.74000001,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 67211694.19,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1110,
+            "avg_amount": 60551.07584684684,
+            "parent_agency": "Financial Information Services Agency"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 55266986.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 516,
+            "avg_amount": 107106.5621124031,
+            "parent_agency": "Financial Information Services Agency"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 90311.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 15051.916666666666,
+            "parent_agency": "Financial Information Services Agency"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1632,
+        "avg_amount": 75103.54886029412,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Probation",
+      "value": 116258717.10000001,
+      "children": [
+        {
+          "name": "PROBATION SERVICES",
+          "value": 72177224.89000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2414,
+            "avg_amount": 29899.430360397688,
+            "parent_agency": "Department of Probation"
+          }
+        },
+        {
+          "name": "PROBATION SERVICES-OTPS",
+          "value": 30369017.27,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3361,
+            "avg_amount": 9035.708797976793,
+            "parent_agency": "Department of Probation"
+          }
+        },
+        {
+          "name": "EXECUTIVE MANAGEMENT",
+          "value": 13651197.24,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 539,
+            "avg_amount": 25326.89654916512,
+            "parent_agency": "Department of Probation"
+          }
+        },
+        {
+          "name": "EXECUTIVE MANAGEMENT - OTPS",
+          "value": 61277.7,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 191,
+            "avg_amount": 320.82565445026177,
+            "parent_agency": "Department of Probation"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 6505,
+        "avg_amount": 17872.20862413528,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Emergency Management",
+      "value": 107495954.27999999,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 82707439.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2467,
+            "avg_amount": 33525.512411836244,
+            "parent_agency": "Department of Emergency Management"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 23748549.990000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1003,
+            "avg_amount": 23677.517437686944,
+            "parent_agency": "Department of Emergency Management"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 1039965.1699999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 129995.64624999999,
+            "parent_agency": "Department of Emergency Management"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 3478,
+        "avg_amount": 30907.40491086831,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "City Council",
+      "value": 105315062.2,
+      "children": [
+        {
+          "name": "COUNCIL MEMBERS",
+          "value": 36349050.97,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 94,
+            "avg_amount": 386692.03159574466,
+            "parent_agency": "City Council"
+          }
+        },
+        {
+          "name": "COMMITTEE STAFFING",
+          "value": 24880382.6,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 388,
+            "avg_amount": 64124.697422680416,
+            "parent_agency": "City Council"
+          }
+        },
+        {
+          "name": "COUNCIL SERVICES DIVISION",
+          "value": 21323104.01,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 366,
+            "avg_amount": 58259.84702185793,
+            "parent_agency": "City Council"
+          }
+        },
+        {
+          "name": "OTPS CENTRAL STAFF",
+          "value": 13799542.790000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1632,
+            "avg_amount": 8455.602199754903,
+            "parent_agency": "City Council"
+          }
+        },
+        {
+          "name": "OTPS COUNCIL MEMBERS",
+          "value": 8962981.83,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6813,
+            "avg_amount": 1315.570501981506,
+            "parent_agency": "City Council"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 9293,
+        "avg_amount": 11332.730248574197,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "District Attorney - Queens County",
+      "value": 96688768.5,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 96688768.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 329,
+            "avg_amount": 293886.83434650453,
+            "parent_agency": "District Attorney - Queens County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 329,
+        "avg_amount": 293886.83434650453,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "NYC Taxi and Limousine Commission",
+      "value": 95295902.69999999,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 43672380.53,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 64,
+            "avg_amount": 682380.94578125,
+            "parent_agency": "NYC Taxi and Limousine Commission"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICE",
+          "value": 36491501.69,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 922,
+            "avg_amount": 39578.635238611714,
+            "parent_agency": "NYC Taxi and Limousine Commission"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 15132020.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1087,
+            "avg_amount": 13920.90200551978,
+            "parent_agency": "NYC Taxi and Limousine Commission"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 2073,
+        "avg_amount": 45970.04471780029,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of Administrative Trials and Hearings",
+      "value": 74105824.28,
+      "children": [
+        {
+          "name": "OFF OF ADM. TRIALS & HEARINGS",
+          "value": 56218632.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1123,
+            "avg_amount": 50061.11551202137,
+            "parent_agency": "Office of Administrative Trials and Hearings"
+          }
+        },
+        {
+          "name": "OFFICE OF ADMIN. TRIALS & HEARINGS- OTPS",
+          "value": 17887188.060000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 55485,
+            "avg_amount": 322.37880616382813,
+            "parent_agency": "Office of Administrative Trials and Hearings"
+          }
+        },
+        {
+          "name": "<Non-Applicable Department>",
+          "value": 3.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3.5,
+            "parent_agency": "Office of Administrative Trials and Hearings"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 56609,
+        "avg_amount": 1309.0820237064777,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Consumer & Worker Protection",
+      "value": 70783267.93,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 35680709.44,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1486,
+            "avg_amount": 24011.244576043067,
+            "parent_agency": "Department of Consumer & Worker Protection"
+          }
+        },
+        {
+          "name": "ADMINISTRATION",
+          "value": 16851159.900000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 758,
+            "avg_amount": 22231.08166226913,
+            "parent_agency": "Department of Consumer & Worker Protection"
+          }
+        },
+        {
+          "name": "LICENSING/ENFORCEMENT",
+          "value": 16330294.249999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 727,
+            "avg_amount": 22462.578060522694,
+            "parent_agency": "Department of Consumer & Worker Protection"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 1921104.3399999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 369,
+            "avg_amount": 5206.244823848238,
+            "parent_agency": "Department of Consumer & Worker Protection"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 3340,
+        "avg_amount": 21192.595188622756,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Investigation",
+      "value": 57191862.01,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 29371632.610000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 752,
+            "avg_amount": 39058.02208776596,
+            "parent_agency": "Department of Investigation"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 23220918.580000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2101,
+            "avg_amount": 11052.317267967635,
+            "parent_agency": "Department of Investigation"
+          }
+        },
+        {
+          "name": "INSPECTOR GENERAL-PS",
+          "value": 4338236.739999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 549,
+            "avg_amount": 7902.070564663022,
+            "parent_agency": "Department of Investigation"
+          }
+        },
+        {
+          "name": "INSPECTOR GENERAL-OTPS",
+          "value": 261074.08,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 183,
+            "avg_amount": 1426.6343169398906,
+            "parent_agency": "Department of Investigation"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 3585,
+        "avg_amount": 15953.099584379357,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of City Planning",
+      "value": 49721126.61,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 29912823.859999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1735,
+            "avg_amount": 17240.820668587894,
+            "parent_agency": "Department of City Planning"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 16932216.82,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1265,
+            "avg_amount": 13385.151636363636,
+            "parent_agency": "Department of City Planning"
+          }
+        },
+        {
+          "name": "GEOGRAPHIC SYSTEMS",
+          "value": 2876085.9299999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 173,
+            "avg_amount": 16624.77416184971,
+            "parent_agency": "Department of City Planning"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 3173,
+        "avg_amount": 15670.068266624645,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "New York Research Libraries",
+      "value": 33533339.12,
+      "children": [
+        {
+          "name": "LUMP SUM APPROPRIATION",
+          "value": 32607159.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 62,
+            "avg_amount": 525921.9193548387,
+            "parent_agency": "New York Research Libraries"
+          }
+        },
+        {
+          "name": "400-035-101",
+          "value": 773178.13,
+          "budget_code": "400-035-101",
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 257726.04333333333,
+            "parent_agency": "New York Research Libraries"
+          }
+        },
+        {
+          "name": "400-035-D02",
+          "value": 153001.99,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 153001.99,
+            "parent_agency": "New York Research Libraries"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 66,
+        "avg_amount": 508080.89575757575,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of Prosecution - Special Narcotics",
+      "value": 25993690.8,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 25993690.8,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 617,
+            "avg_amount": 42129.1585089141,
+            "parent_agency": "Office of Prosecution - Special Narcotics"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 617,
+        "avg_amount": 42129.1585089141,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "District Attorney -Richmond County",
+      "value": 25809463.33,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 25809463.33,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 179,
+            "avg_amount": 144186.9459776536,
+            "parent_agency": "District Attorney -Richmond County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 179,
+        "avg_amount": 144186.9459776536,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Civilian Complaint Review Board",
+      "value": 23495007.22,
+      "children": [
+        {
+          "name": "CCRB-PS",
+          "value": 22092808.430000007,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 665,
+            "avg_amount": 33222.268315789486,
+            "parent_agency": "Civilian Complaint Review Board"
+          }
+        },
+        {
+          "name": "CCRB-OTPS",
+          "value": 1402198.7900000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 819,
+            "avg_amount": 1712.086434676435,
+            "parent_agency": "Civilian Complaint Review Board"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1484,
+        "avg_amount": 15832.215107816712,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of Payroll Administration",
+      "value": 17926755.570000004,
+      "children": [
+        {
+          "name": "PERSONAL SERVICE",
+          "value": 16220380.96,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 917,
+            "avg_amount": 17688.528854961834,
+            "parent_agency": "Office of Payroll Administration"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 1614376.4000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 170,
+            "avg_amount": 9496.331764705883,
+            "parent_agency": "Office of Payroll Administration"
+          }
+        },
+        {
+          "name": "N/A",
+          "value": 91998.21,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 91998.21,
+            "parent_agency": "Office of Payroll Administration"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1088,
+        "avg_amount": 16476.797398897063,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "HEALTH PAYMENTS",
+      "value": 15033260.0,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 15033260.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 22,
+            "avg_amount": 683330.0,
+            "parent_agency": "HEALTH PAYMENTS"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 22,
+        "avg_amount": 683330.0,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Records and Information Services",
+      "value": 11671001.510000002,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 6703415.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 494,
+            "avg_amount": 13569.667975708502,
+            "parent_agency": "Department of Records and Information Services"
+          }
+        },
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 4967272.15,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 621,
+            "avg_amount": 7998.827938808374,
+            "parent_agency": "Department of Records and Information Services"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 313.38,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 104.46,
+            "parent_agency": "Department of Records and Information Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1118,
+        "avg_amount": 10439.178452593918,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Commission on Human Rights",
+      "value": 11518996.3,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 5792399.629999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 428,
+            "avg_amount": 13533.6439953271,
+            "parent_agency": "Commission on Human Rights"
+          }
+        },
+        {
+          "name": "COMMUNITY DEVELOP P.S.",
+          "value": 4450819.41,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 133,
+            "avg_amount": 33464.807593984966,
+            "parent_agency": "Commission on Human Rights"
+          }
+        },
+        {
+          "name": "COMM DEVELOP OTPS",
+          "value": 1082046.44,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 595,
+            "avg_amount": 1818.5654453781513,
+            "parent_agency": "Commission on Human Rights"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 193730.81999999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 52,
+            "avg_amount": 3725.5926923076913,
+            "parent_agency": "Commission on Human Rights"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 1208,
+        "avg_amount": 9535.59296357616,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Business Integrity Commission",
+      "value": 8049292.410000001,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 6163479.83,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 333,
+            "avg_amount": 18508.948438438438,
+            "parent_agency": "Business Integrity Commission"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 1778552.7400000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 425,
+            "avg_amount": 4184.829976470589,
+            "parent_agency": "Business Integrity Commission"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 107259.84,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 107259.84,
+            "parent_agency": "Business Integrity Commission"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 759,
+        "avg_amount": 10605.12833992095,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Independent Budget Office",
+      "value": 7653128.98,
+      "children": [
+        {
+          "name": "PERSONAL SERVICE",
+          "value": 5963598.240000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 127,
+            "avg_amount": 46957.46645669292,
+            "parent_agency": "Independent Budget Office"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 1689530.74,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 343,
+            "avg_amount": 4925.745597667638,
+            "parent_agency": "Independent Budget Office"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 470,
+        "avg_amount": 16283.253148936172,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Landmarks Preservation Commission",
+      "value": 7430937.640000001,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 6666249.870000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 480,
+            "avg_amount": 13888.020562500002,
+            "parent_agency": "Landmarks Preservation Commission"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 764687.7699999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 282,
+            "avg_amount": 2711.658758865248,
+            "parent_agency": "Landmarks Preservation Commission"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 762,
+        "avg_amount": 9751.886666666667,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Borough President - Brooklyn",
+      "value": 6698300.53,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 6045933.140000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 255,
+            "avg_amount": 23709.5417254902,
+            "parent_agency": "Borough President - Brooklyn"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 652367.39,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 299,
+            "avg_amount": 2181.830735785953,
+            "parent_agency": "Borough President - Brooklyn"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 554,
+        "avg_amount": 12090.795180505416,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Borough President - Queens",
+      "value": 6573774.370000001,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 5913781.410000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 519,
+            "avg_amount": 11394.569190751447,
+            "parent_agency": "Borough President - Queens"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 659992.96,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 398,
+            "avg_amount": 1658.273768844221,
+            "parent_agency": "Borough President - Queens"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 917,
+        "avg_amount": 7168.783391494003,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Borough President - Bronx",
+      "value": 6196720.67,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 5332451.14,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 324,
+            "avg_amount": 16458.182530864196,
+            "parent_agency": "Borough President - Bronx"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 864269.53,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 493,
+            "avg_amount": 1753.082210953347,
+            "parent_agency": "Borough President - Bronx"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 817,
+        "avg_amount": 7584.725422276621,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Borough President - Manhattan",
+      "value": 5901748.82,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 4978717.149999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 135,
+            "avg_amount": 36879.386296296296,
+            "parent_agency": "Borough President - Manhattan"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 923031.6699999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 461,
+            "avg_amount": 2002.2378958785248,
+            "parent_agency": "Borough President - Manhattan"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 596,
+        "avg_amount": 9902.26312080537,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Department of Veterans' Services",
+      "value": 5828060.36,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 3814562.8699999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 378,
+            "avg_amount": 10091.436164021163,
+            "parent_agency": "Department of Veterans' Services"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 2013497.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 274,
+            "avg_amount": 7348.5309854014595,
+            "parent_agency": "Department of Veterans' Services"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 652,
+        "avg_amount": 8938.742883435583,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "City Clerk",
+      "value": 5789919.62,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 4641121.33,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 116,
+            "avg_amount": 40009.66663793103,
+            "parent_agency": "City Clerk"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 1148798.2899999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 349,
+            "avg_amount": 3291.6856446991396,
+            "parent_agency": "City Clerk"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 465,
+        "avg_amount": 12451.440043010753,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of the Actuary",
+      "value": 5715443.099999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICE",
+          "value": 5227069.099999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 119,
+            "avg_amount": 43924.95042016805,
+            "parent_agency": "Office of the Actuary"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 488374.00000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 194,
+            "avg_amount": 2517.39175257732,
+            "parent_agency": "Office of the Actuary"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 313,
+        "avg_amount": 18260.201597444084,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of Administrative Tax Appeals",
+      "value": 5519954.410000002,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 5301391.1400000015,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 251,
+            "avg_amount": 21121.08023904383,
+            "parent_agency": "Office of Administrative Tax Appeals"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 218563.27,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 193,
+            "avg_amount": 1132.4521761658032,
+            "parent_agency": "Office of Administrative Tax Appeals"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 444,
+        "avg_amount": 12432.329752252257,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Public Advocate",
+      "value": 5355411.530000001,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 5144729.609999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 91,
+            "avg_amount": 56535.490219780215,
+            "parent_agency": "Public Advocate"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 210681.91999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 190,
+            "avg_amount": 1108.8522105263157,
+            "parent_agency": "Public Advocate"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 281,
+        "avg_amount": 19058.40402135232,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Board of Correction",
+      "value": 3031612.31,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 2828560.2499999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 122,
+            "avg_amount": 23184.920081967208,
+            "parent_agency": "Board of Correction"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICE",
+          "value": 203052.05999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 230,
+            "avg_amount": 882.8350434782608,
+            "parent_agency": "Board of Correction"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 352,
+        "avg_amount": 8612.534971590909,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Borough President - Staten Island",
+      "value": 2903741.32,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 2761731.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 303,
+            "avg_amount": 9114.625379537954,
+            "parent_agency": "Borough President - Staten Island"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 142009.83000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 310,
+            "avg_amount": 458.0962258064517,
+            "parent_agency": "Borough President - Staten Island"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 613,
+        "avg_amount": 4736.935269168026,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Conflicts of Interest Board",
+      "value": 2714685.8000000003,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 2621752.5900000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 81,
+            "avg_amount": 32367.31592592593,
+            "parent_agency": "Conflicts of Interest Board"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 92933.20999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 189,
+            "avg_amount": 491.71010582010575,
+            "parent_agency": "Conflicts of Interest Board"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 270,
+        "avg_amount": 10054.391851851853,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Office of Collective Bargaining",
+      "value": 2623662.52,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 2443835.73,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 27,
+            "avg_amount": 90512.43444444444,
+            "parent_agency": "Office of Collective Bargaining"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 179826.78999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 200,
+            "avg_amount": 899.1339499999999,
+            "parent_agency": "Office of Collective Bargaining"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 227,
+        "avg_amount": 11557.984669603524,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "MAYOR'S OFFICE OF EQUITY",
+      "value": 1896387.3,
+      "children": [
+        {
+          "name": "PS - RACIAL EQUITY",
+          "value": 1896387.3,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 23,
+            "avg_amount": 82451.62173913044,
+            "parent_agency": "MAYOR'S OFFICE OF EQUITY"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 23,
+        "avg_amount": 82451.62173913044,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Equal Employment Practices Commission",
+      "value": 1168464.9099999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 1114418.43,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 65,
+            "avg_amount": 17144.898923076922,
+            "parent_agency": "Equal Employment Practices Commission"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 54046.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 62,
+            "avg_amount": 871.7174193548387,
+            "parent_agency": "Equal Employment Practices Commission"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 127,
+        "avg_amount": 9200.511102362203,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "COMMISSION ON RACIAL EQUITY",
+      "value": 1153388.16,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 1087304.96,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 36,
+            "avg_amount": 30202.915555555555,
+            "parent_agency": "COMMISSION ON RACIAL EQUITY"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 66083.20000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 3671.2888888888897,
+            "parent_agency": "COMMISSION ON RACIAL EQUITY"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 54,
+        "avg_amount": 21359.039999999997,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Civil Service Commission",
+      "value": 1125169.5999999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 1118467.3499999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 111,
+            "avg_amount": 10076.282432432432,
+            "parent_agency": "Civil Service Commission"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 6702.25,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 57,
+            "avg_amount": 117.58333333333333,
+            "parent_agency": "Civil Service Commission"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 168,
+        "avg_amount": 6697.438095238094,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Public Administrator-Kings County",
+      "value": 1069067.08,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 1051067.08,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 27,
+            "avg_amount": 38928.41037037037,
+            "parent_agency": "Public Administrator-Kings County"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 18000.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 18000.0,
+            "parent_agency": "Public Administrator-Kings County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 28,
+        "avg_amount": 38180.967142857146,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Public Administrator-New York County",
+      "value": 1002196.9400000001,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 955530.87,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 94,
+            "avg_amount": 10165.222021276595,
+            "parent_agency": "Public Administrator-New York County"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 46666.07000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 83,
+            "avg_amount": 562.2418072289157,
+            "parent_agency": "Public Administrator-New York County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 177,
+        "avg_amount": 5662.129604519774,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Public Administrator-Queens County",
+      "value": 663101.86,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 645601.86,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 28,
+            "avg_amount": 23057.209285714285,
+            "parent_agency": "Public Administrator-Queens County"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 17500.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 17500.0,
+            "parent_agency": "Public Administrator-Queens County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 29,
+        "avg_amount": 22865.581379310344,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Public Administrator-Bronx County",
+      "value": 649874.51,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 579305.2500000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 19976.04310344828,
+            "parent_agency": "Public Administrator-Bronx County"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 70569.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 8821.1575,
+            "parent_agency": "Public Administrator-Bronx County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 37,
+        "avg_amount": 17564.175945945946,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Public Administrator-Richmond County",
+      "value": 644543.8799999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 605359.77,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 32,
+            "avg_amount": 18917.4928125,
+            "parent_agency": "Public Administrator-Richmond County"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 39184.11000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 44,
+            "avg_amount": 890.5479545454547,
+            "parent_agency": "Public Administrator-Richmond County"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 76,
+        "avg_amount": 8480.840526315787,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "OFFICE OF RACIAL EQUITY",
+      "value": 531819.7199999999,
+      "children": [
+        {
+          "name": "PS - RACIAL EQUITY",
+          "value": 464528.51999999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 51614.28,
+            "parent_agency": "OFFICE OF RACIAL EQUITY"
+          }
+        },
+        {
+          "name": "OTPS - RACIAL EQUITY",
+          "value": 67291.20000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 22,
+            "avg_amount": 3058.69090909091,
+            "parent_agency": "OFFICE OF RACIAL EQUITY"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 31,
+        "avg_amount": 17155.474838709673,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 6",
+      "value": 476007.24,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 277989.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 70,
+            "avg_amount": 3971.2719999999995,
+            "parent_agency": "Manhattan Community Board # 6"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 177905.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 177905.0,
+            "parent_agency": "Manhattan Community Board # 6"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 20113.200000000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 20,
+            "avg_amount": 1005.6600000000002,
+            "parent_agency": "Manhattan Community Board # 6"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 91,
+        "avg_amount": 5230.848791208791,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 8",
+      "value": 469171.83999999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 246076.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 40,
+            "avg_amount": 6151.9065,
+            "parent_agency": "Manhattan Community Board # 8"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 128531.59999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 3,
+            "avg_amount": 42843.86666666666,
+            "parent_agency": "Manhattan Community Board # 8"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 94563.97999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 40,
+            "avg_amount": 2364.0994999999994,
+            "parent_agency": "Manhattan Community Board # 8"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 83,
+        "avg_amount": 5652.672771084337,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 5",
+      "value": 418986.0399999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 246260.41,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 52,
+            "avg_amount": 4735.777115384615,
+            "parent_agency": "Manhattan Community Board # 5"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 122339.32,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 30584.83,
+            "parent_agency": "Manhattan Community Board # 5"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 50386.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 26,
+            "avg_amount": 1937.935,
+            "parent_agency": "Manhattan Community Board # 5"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 82,
+        "avg_amount": 5109.585853658536,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 3",
+      "value": 415038.94,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 219844.60000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 74,
+            "avg_amount": 2970.8729729729735,
+            "parent_agency": "Manhattan Community Board # 3"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 129500.04,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 10791.67,
+            "parent_agency": "Manhattan Community Board # 3"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 65694.29999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 128,
+            "avg_amount": 513.2367187499999,
+            "parent_agency": "Manhattan Community Board # 3"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 214,
+        "avg_amount": 1939.4342990654206,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 12",
+      "value": 411359.85000000003,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 225771.46000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 73,
+            "avg_amount": 3092.7597260273974,
+            "parent_agency": "Manhattan Community Board # 12"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 134283.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 16785.375,
+            "parent_agency": "Manhattan Community Board # 12"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 51305.39000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 54,
+            "avg_amount": 950.099814814815,
+            "parent_agency": "Manhattan Community Board # 12"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 135,
+        "avg_amount": 3047.11,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "<Unknown Agency>",
+      "value": 408654.85,
+      "children": [
+        {
+          "name": "<Unknown Department>",
+          "value": 408654.85,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 14091.546551724137,
+            "parent_agency": "<Unknown Agency>"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 29,
+        "avg_amount": 14091.546551724137,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 12",
+      "value": 403410.58,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 246326.67,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 32,
+            "avg_amount": 7697.7084375,
+            "parent_agency": "Brooklyn Community Board # 12"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 92116.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 6141.11,
+            "parent_agency": "Brooklyn Community Board # 12"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 64967.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 96,
+            "avg_amount": 676.7422916666667,
+            "parent_agency": "Brooklyn Community Board # 12"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 143,
+        "avg_amount": 2821.0530069930073,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 9",
+      "value": 390656.02999999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 175434.98,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 3813.8039130434786,
+            "parent_agency": "Manhattan Community Board # 9"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 146941.99999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 11303.230769230768,
+            "parent_agency": "Manhattan Community Board # 9"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 68279.04999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 31,
+            "avg_amount": 2202.5499999999997,
+            "parent_agency": "Manhattan Community Board # 9"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 90,
+        "avg_amount": 4340.622555555556,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 7",
+      "value": 390477.2799999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 267989.88,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 55,
+            "avg_amount": 4872.543272727273,
+            "parent_agency": "Manhattan Community Board # 7"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 94080.9,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 7840.075,
+            "parent_agency": "Manhattan Community Board # 7"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 28406.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 39,
+            "avg_amount": 728.3717948717949,
+            "parent_agency": "Manhattan Community Board # 7"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 106,
+        "avg_amount": 3683.747924528301,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 7",
+      "value": 380759.45,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 224930.19,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 43,
+            "avg_amount": 5230.934651162791,
+            "parent_agency": "Bronx Community Board # 7"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 87582.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 43791.01,
+            "parent_agency": "Bronx Community Board # 7"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 68247.24,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 66,
+            "avg_amount": 1034.049090909091,
+            "parent_agency": "Bronx Community Board # 7"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 111,
+        "avg_amount": 3430.2653153153155,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 2",
+      "value": 375953.50000000006,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 216376.72,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 56,
+            "avg_amount": 3863.87,
+            "parent_agency": "Manhattan Community Board # 2"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 92217.62999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 18443.525999999998,
+            "parent_agency": "Manhattan Community Board # 2"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 67359.15000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 74,
+            "avg_amount": 910.2587837837839,
+            "parent_agency": "Manhattan Community Board # 2"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 135,
+        "avg_amount": 2784.8407407407412,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 11",
+      "value": 375024.55000000005,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 238969.58000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 48,
+            "avg_amount": 4978.532916666667,
+            "parent_agency": "Manhattan Community Board # 11"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 74250.16,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 37125.08,
+            "parent_agency": "Manhattan Community Board # 11"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 61804.810000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 76,
+            "avg_amount": 813.2211842105264,
+            "parent_agency": "Manhattan Community Board # 11"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 126,
+        "avg_amount": 2976.3853174603178,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 14",
+      "value": 374053.73000000004,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 268869.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 55,
+            "avg_amount": 4888.528181818182,
+            "parent_agency": "Brooklyn Community Board # 14"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 75968.75,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 8440.972222222223,
+            "parent_agency": "Brooklyn Community Board # 14"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 29215.93,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 101,
+            "avg_amount": 289.26663366336635,
+            "parent_agency": "Brooklyn Community Board # 14"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 165,
+        "avg_amount": 2266.9923030303034,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 17",
+      "value": 370753.84,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 218129.06999999992,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 87,
+            "avg_amount": 2507.2306896551713,
+            "parent_agency": "Brooklyn Community Board # 17"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 80376.1,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 149,
+            "avg_amount": 539.4369127516779,
+            "parent_agency": "Brooklyn Community Board # 17"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 72241.66999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 19,
+            "avg_amount": 3802.193157894736,
+            "parent_agency": "Brooklyn Community Board # 17"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 7.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 3.5,
+            "parent_agency": "Brooklyn Community Board # 17"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 257,
+        "avg_amount": 1442.621945525292,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 10",
+      "value": 370337.64,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 272243.88,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 91,
+            "avg_amount": 2991.690989010989,
+            "parent_agency": "Brooklyn Community Board # 10"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 77353.31,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 5156.887333333333,
+            "parent_agency": "Brooklyn Community Board # 10"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 20740.45,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 48,
+            "avg_amount": 432.09270833333335,
+            "parent_agency": "Brooklyn Community Board # 10"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 154,
+        "avg_amount": 2404.78987012987,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 4",
+      "value": 360584.1599999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 239883.63000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 76,
+            "avg_amount": 3156.3635526315793,
+            "parent_agency": "Manhattan Community Board # 4"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 88369.36,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 22092.34,
+            "parent_agency": "Manhattan Community Board # 4"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 32331.170000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 33,
+            "avg_amount": 979.7324242424243,
+            "parent_agency": "Manhattan Community Board # 4"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 113,
+        "avg_amount": 3191.010265486725,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 9",
+      "value": 358122.78,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 230382.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 72,
+            "avg_amount": 3199.7569444444443,
+            "parent_agency": "Brooklyn Community Board # 9"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 101899.10999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 7838.393076923076,
+            "parent_agency": "Brooklyn Community Board # 9"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 25841.17,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 73,
+            "avg_amount": 353.9886301369863,
+            "parent_agency": "Brooklyn Community Board # 9"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 158,
+        "avg_amount": 2266.5998734177215,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 10",
+      "value": 358054.77,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 189800.27999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 39,
+            "avg_amount": 4866.673846153845,
+            "parent_agency": "Manhattan Community Board # 10"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 126081.76000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 14,
+            "avg_amount": 9005.84,
+            "parent_agency": "Manhattan Community Board # 10"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 42172.729999999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 38,
+            "avg_amount": 1109.8086842105263,
+            "parent_agency": "Manhattan Community Board # 10"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 91,
+        "avg_amount": 3934.6678021978023,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 11",
+      "value": 345400.06999999983,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 273388.18,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 65,
+            "avg_amount": 4205.972,
+            "parent_agency": "Bronx Community Board # 11"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 57049.55999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 4754.129999999999,
+            "parent_agency": "Bronx Community Board # 11"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 14962.33,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 325.2680434782609,
+            "parent_agency": "Bronx Community Board # 11"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 123,
+        "avg_amount": 2808.130650406503,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Staten Island Community Board # 3",
+      "value": 341493.63000000006,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 239224.43999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 79,
+            "avg_amount": 3028.15746835443,
+            "parent_agency": "Staten Island Community Board # 3"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 93916.97000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 7826.414166666669,
+            "parent_agency": "Staten Island Community Board # 3"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 8352.220000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 32,
+            "avg_amount": 261.00687500000004,
+            "parent_agency": "Staten Island Community Board # 3"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 123,
+        "avg_amount": 2776.3709756097564,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 13",
+      "value": 340609.13000000006,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 266801.82,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 45,
+            "avg_amount": 5928.9293333333335,
+            "parent_agency": "Brooklyn Community Board # 13"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 47749.92999999999,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 17,
+            "avg_amount": 2808.8194117647054,
+            "parent_agency": "Brooklyn Community Board # 13"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 26057.379999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 56,
+            "avg_amount": 465.3103571428571,
+            "parent_agency": "Brooklyn Community Board # 13"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 118,
+        "avg_amount": 2886.518050847458,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 2",
+      "value": 336452.84,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 239156.22,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 55,
+            "avg_amount": 4348.294909090909,
+            "parent_agency": "Bronx Community Board # 2"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 60080.920000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 30040.460000000003,
+            "parent_agency": "Bronx Community Board # 2"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 37215.7,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 83,
+            "avg_amount": 448.38192771084334,
+            "parent_agency": "Bronx Community Board # 2"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 140,
+        "avg_amount": 2403.2345714285716,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 9",
+      "value": 332914.7,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 248857.7,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 6725.883783783784,
+            "parent_agency": "Bronx Community Board # 9"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 83785.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 41892.5,
+            "parent_agency": "Bronx Community Board # 9"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 272.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 272.0,
+            "parent_agency": "Bronx Community Board # 9"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 40,
+        "avg_amount": 8322.8675,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 8",
+      "value": 330002.41000000003,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 241475.15000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 95,
+            "avg_amount": 2541.843684210527,
+            "parent_agency": "Brooklyn Community Board # 8"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 64233.96000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 13,
+            "avg_amount": 4941.073846153847,
+            "parent_agency": "Brooklyn Community Board # 8"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 24293.300000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 70,
+            "avg_amount": 347.0471428571429,
+            "parent_agency": "Brooklyn Community Board # 8"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 178,
+        "avg_amount": 1853.9461235955057,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 10",
+      "value": 316345.19000000006,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 247480.95000000007,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 97,
+            "avg_amount": 2551.350000000001,
+            "parent_agency": "Bronx Community Board # 10"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 60939.59000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 5078.299166666668,
+            "parent_agency": "Bronx Community Board # 10"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 7924.65,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 90,
+            "avg_amount": 88.05166666666666,
+            "parent_agency": "Bronx Community Board # 10"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 199,
+        "avg_amount": 1589.6743216080406,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 8",
+      "value": 306692.25,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 257948.71000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 60,
+            "avg_amount": 4299.145166666667,
+            "parent_agency": "Queens Community Board # 8"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 48743.54,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 105,
+            "avg_amount": 464.2241904761905,
+            "parent_agency": "Queens Community Board # 8"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 165,
+        "avg_amount": 1858.740909090909,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 1",
+      "value": 298991.9,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 205163.01,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 56,
+            "avg_amount": 3663.625178571429,
+            "parent_agency": "Queens Community Board # 1"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 93828.89,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 97,
+            "avg_amount": 967.3081443298969,
+            "parent_agency": "Queens Community Board # 1"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 153,
+        "avg_amount": 1954.1954248366014,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 11",
+      "value": 298630.87000000005,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 214496.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 54,
+            "avg_amount": 3972.1490740740737,
+            "parent_agency": "Brooklyn Community Board # 11"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 63334.26000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 11,
+            "avg_amount": 5757.660000000001,
+            "parent_agency": "Brooklyn Community Board # 11"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 20800.559999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 96,
+            "avg_amount": 216.67249999999999,
+            "parent_agency": "Brooklyn Community Board # 11"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 161,
+        "avg_amount": 1854.8501242236027,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 8",
+      "value": 289765.84,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 204670.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 45,
+            "avg_amount": 4548.222222222223,
+            "parent_agency": "Bronx Community Board # 8"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 52819.06,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 10,
+            "avg_amount": 5281.906,
+            "parent_agency": "Bronx Community Board # 8"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 32276.779999999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 45,
+            "avg_amount": 717.2617777777776,
+            "parent_agency": "Bronx Community Board # 8"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 100,
+        "avg_amount": 2897.6584000000003,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Manhattan Community Board # 1",
+      "value": 289297.05999999994,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 244428.62000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 73,
+            "avg_amount": 3348.3372602739732,
+            "parent_agency": "Manhattan Community Board # 1"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 44868.439999999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 91,
+            "avg_amount": 493.0597802197802,
+            "parent_agency": "Manhattan Community Board # 1"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 164,
+        "avg_amount": 1764.0064634146338,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 2",
+      "value": 288247.1,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 273017.67,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 103,
+            "avg_amount": 2650.656990291262,
+            "parent_agency": "Queens Community Board # 2"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 15225.929999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 55,
+            "avg_amount": 276.83509090909087,
+            "parent_agency": "Queens Community Board # 2"
+          }
+        },
+        {
+          "name": "Non-Applicable Department",
+          "value": 3.5,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 3.5,
+            "parent_agency": "Queens Community Board # 2"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 159,
+        "avg_amount": 1812.8748427672954,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 5",
+      "value": 288099.6099999999,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 273482.37999999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 72,
+            "avg_amount": 3798.366388888888,
+            "parent_agency": "Queens Community Board # 5"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 14617.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 49,
+            "avg_amount": 298.3108163265306,
+            "parent_agency": "Queens Community Board # 5"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 121,
+        "avg_amount": 2380.9885123966937,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 3",
+      "value": 280952.64999999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 238869.86000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 37,
+            "avg_amount": 6455.942162162162,
+            "parent_agency": "Queens Community Board # 3"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 42082.79,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 42,
+            "avg_amount": 1001.9711904761905,
+            "parent_agency": "Queens Community Board # 3"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 79,
+        "avg_amount": 3556.3626582278475,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 6",
+      "value": 280861.14999999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 231232.39,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 50,
+            "avg_amount": 4624.647800000001,
+            "parent_agency": "Bronx Community Board # 6"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 49628.759999999995,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 102,
+            "avg_amount": 486.55647058823524,
+            "parent_agency": "Bronx Community Board # 6"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 152,
+        "avg_amount": 1847.7707236842102,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 11",
+      "value": 280796.51,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 259877.06000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 90,
+            "avg_amount": 2887.5228888888896,
+            "parent_agency": "Queens Community Board # 11"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 20919.449999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 64,
+            "avg_amount": 326.86640624999995,
+            "parent_agency": "Queens Community Board # 11"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 154,
+        "avg_amount": 1823.3539610389612,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 4",
+      "value": 280205.52999999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 214289.52000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 71,
+            "avg_amount": 3018.1622535211272,
+            "parent_agency": "Brooklyn Community Board # 4"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 45509.920000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 6,
+            "avg_amount": 7584.986666666668,
+            "parent_agency": "Brooklyn Community Board # 4"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 20406.09,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 58,
+            "avg_amount": 351.8291379310345,
+            "parent_agency": "Brooklyn Community Board # 4"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 135,
+        "avg_amount": 2075.596518518518,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 7",
+      "value": 280201.13000000006,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 261851.22000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 68,
+            "avg_amount": 3850.753235294118,
+            "parent_agency": "Brooklyn Community Board # 7"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 18349.91,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 46,
+            "avg_amount": 398.91108695652173,
+            "parent_agency": "Brooklyn Community Board # 7"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 114,
+        "avg_amount": 2457.9046491228078,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 12",
+      "value": 279291.98,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 254175.49000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 74,
+            "avg_amount": 3434.8039189189194,
+            "parent_agency": "Bronx Community Board # 12"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 25116.489999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 25,
+            "avg_amount": 1004.6596,
+            "parent_agency": "Bronx Community Board # 12"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 99,
+        "avg_amount": 2821.131111111111,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 6",
+      "value": 278864.42,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 267545.95,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 87,
+            "avg_amount": 3075.2408045977013,
+            "parent_agency": "Brooklyn Community Board # 6"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 11318.469999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 48,
+            "avg_amount": 235.80145833333327,
+            "parent_agency": "Brooklyn Community Board # 6"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 135,
+        "avg_amount": 2065.6623703703704,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 1",
+      "value": 272130.63,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 202860.03,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 43,
+            "avg_amount": 4717.67511627907,
+            "parent_agency": "Brooklyn Community Board # 1"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 65526.479999999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 7280.719999999999,
+            "parent_agency": "Brooklyn Community Board # 1"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 3744.12,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 41,
+            "avg_amount": 91.32,
+            "parent_agency": "Brooklyn Community Board # 1"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 93,
+        "avg_amount": 2926.135806451613,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 18",
+      "value": 270797.47,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 234082.99000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 69,
+            "avg_amount": 3392.5071014492755,
+            "parent_agency": "Brooklyn Community Board # 18"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 36714.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 80,
+            "avg_amount": 458.93100000000004,
+            "parent_agency": "Brooklyn Community Board # 18"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 149,
+        "avg_amount": 1817.4326845637581,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 1",
+      "value": 264108.57,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 206817.49,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 51,
+            "avg_amount": 4055.2449019607843,
+            "parent_agency": "Bronx Community Board # 1"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 32735.54,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 38,
+            "avg_amount": 861.4615789473685,
+            "parent_agency": "Bronx Community Board # 1"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 24555.54,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 1,
+            "avg_amount": 24555.54,
+            "parent_agency": "Bronx Community Board # 1"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 90,
+        "avg_amount": 2934.5396666666666,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Staten Island Community Board # 1",
+      "value": 262433.83999999997,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 201797.36,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 36,
+            "avg_amount": 5605.482222222222,
+            "parent_agency": "Staten Island Community Board # 1"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 52003.560000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 10400.712000000001,
+            "parent_agency": "Staten Island Community Board # 1"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 8632.920000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 52,
+            "avg_amount": 166.01769230769236,
+            "parent_agency": "Staten Island Community Board # 1"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 93,
+        "avg_amount": 2821.8692473118276,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 6",
+      "value": 262032.34999999998,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 223769.59,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 99,
+            "avg_amount": 2260.298888888889,
+            "parent_agency": "Queens Community Board # 6"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 38262.76,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 85,
+            "avg_amount": 450.15011764705883,
+            "parent_agency": "Queens Community Board # 6"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 184,
+        "avg_amount": 1424.088858695652,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 9",
+      "value": 256892.38,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 223348.08000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 69,
+            "avg_amount": 3236.928695652174,
+            "parent_agency": "Queens Community Board # 9"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 33544.299999999996,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 50,
+            "avg_amount": 670.886,
+            "parent_agency": "Queens Community Board # 9"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 119,
+        "avg_amount": 2158.759495798319,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 3",
+      "value": 253709.97,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 185697.46000000005,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 62,
+            "avg_amount": 2995.120322580646,
+            "parent_agency": "Brooklyn Community Board # 3"
+          }
+        },
+        {
+          "name": "RENT AND ENERGY",
+          "value": 48444.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 12,
+            "avg_amount": 4037.0,
+            "parent_agency": "Brooklyn Community Board # 3"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 19568.510000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 69,
+            "avg_amount": 283.60159420289864,
+            "parent_agency": "Brooklyn Community Board # 3"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 143,
+        "avg_amount": 1774.1955944055944,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 4",
+      "value": 251907.40000000002,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 234909.24000000002,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 56,
+            "avg_amount": 4194.807857142858,
+            "parent_agency": "Queens Community Board # 4"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 16998.160000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 70,
+            "avg_amount": 242.83085714285718,
+            "parent_agency": "Queens Community Board # 4"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 126,
+        "avg_amount": 1999.2650793650796,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 7",
+      "value": 238062.06000000003,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 229195.16,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 42,
+            "avg_amount": 5457.027619047619,
+            "parent_agency": "Queens Community Board # 7"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 8866.899999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 18,
+            "avg_amount": 492.60555555555544,
+            "parent_agency": "Queens Community Board # 7"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 60,
+        "avg_amount": 3967.7010000000005,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 12",
+      "value": 234152.58000000005,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 213701.53000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 72,
+            "avg_amount": 2968.076805555556,
+            "parent_agency": "Queens Community Board # 12"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 20451.05,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 25,
+            "avg_amount": 818.0419999999999,
+            "parent_agency": "Queens Community Board # 12"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 97,
+        "avg_amount": 2413.9441237113406,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Staten Island Community Board # 2",
+      "value": 226417.61000000002,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 162341.4,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 39,
+            "avg_amount": 4162.599999999999,
+            "parent_agency": "Staten Island Community Board # 2"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 50333.29,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 8,
+            "avg_amount": 6291.66125,
+            "parent_agency": "Staten Island Community Board # 2"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 13742.919999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 44,
+            "avg_amount": 312.3390909090909,
+            "parent_agency": "Staten Island Community Board # 2"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 91,
+        "avg_amount": 2488.1056043956046,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 5",
+      "value": 208883.26000000004,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 170298.98000000004,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 75,
+            "avg_amount": 2270.653066666667,
+            "parent_agency": "Bronx Community Board # 5"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 38584.280000000006,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 27,
+            "avg_amount": 1429.0474074074077,
+            "parent_agency": "Bronx Community Board # 5"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 102,
+        "avg_amount": 2047.875098039216,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 2",
+      "value": 208259.78999999992,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 208259.78999999992,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 63,
+            "avg_amount": 3305.7109523809513,
+            "parent_agency": "Brooklyn Community Board # 2"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 63,
+        "avg_amount": 3305.7109523809513,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 13",
+      "value": 201047.65,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 161256.38999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 5560.565172413792,
+            "parent_agency": "Queens Community Board # 13"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 39791.26,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 44,
+            "avg_amount": 904.3468181818182,
+            "parent_agency": "Queens Community Board # 13"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 73,
+        "avg_amount": 2754.0773972602738,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 3",
+      "value": 199848.8,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 193936.34,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 41,
+            "avg_amount": 4730.154634146342,
+            "parent_agency": "Bronx Community Board # 3"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 5912.46,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 1478.115,
+            "parent_agency": "Bronx Community Board # 3"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 45,
+        "avg_amount": 4441.084444444444,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 5",
+      "value": 198819.48,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 196714.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 34,
+            "avg_amount": 5785.72,
+            "parent_agency": "Brooklyn Community Board # 5"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 2105.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 5,
+            "avg_amount": 421.0,
+            "parent_agency": "Brooklyn Community Board # 5"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 39,
+        "avg_amount": 5097.9353846153845,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Bronx Community Board # 4",
+      "value": 189765.86000000002,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 170064.38,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 63,
+            "avg_amount": 2699.434603174603,
+            "parent_agency": "Bronx Community Board # 4"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 12396.48,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 15,
+            "avg_amount": 826.432,
+            "parent_agency": "Bronx Community Board # 4"
+          }
+        },
+        {
+          "name": "RENT",
+          "value": 7305.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 9,
+            "avg_amount": 811.6666666666666,
+            "parent_agency": "Bronx Community Board # 4"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 87,
+        "avg_amount": 2181.2167816091956,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 10",
+      "value": 186744.15,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 147009.12999999998,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 29,
+            "avg_amount": 5069.280344827585,
+            "parent_agency": "Queens Community Board # 10"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 39735.02,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 69,
+            "avg_amount": 575.8698550724637,
+            "parent_agency": "Queens Community Board # 10"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 98,
+        "avg_amount": 1905.5525510204081,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Queens Community Board # 14",
+      "value": 161287.23,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 159980.23,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 42,
+            "avg_amount": 3809.0530952380955,
+            "parent_agency": "Queens Community Board # 14"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 1307.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 326.75,
+            "parent_agency": "Queens Community Board # 14"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 46,
+        "avg_amount": 3506.2441304347826,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 15",
+      "value": 127235.65,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 114905.70000000001,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 36,
+            "avg_amount": 3191.8250000000003,
+            "parent_agency": "Brooklyn Community Board # 15"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 12329.949999999997,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 59,
+            "avg_amount": 208.98220338983046,
+            "parent_agency": "Brooklyn Community Board # 15"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 95,
+        "avg_amount": 1339.3226315789473,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "Brooklyn Community Board # 16",
+      "value": 119391.07,
+      "children": [
+        {
+          "name": "PERSONAL SERVICES",
+          "value": 111283.98000000003,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 62,
+            "avg_amount": 1794.9029032258068,
+            "parent_agency": "Brooklyn Community Board # 16"
+          }
+        },
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 8107.09,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 4053.545,
+            "parent_agency": "Brooklyn Community Board # 16"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 64,
+        "avg_amount": 1865.48546875,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "DCASDIVISION OF MUNICIPAL SUPPLY SERVICE",
+      "value": 1238.43,
+      "children": [
+        {
+          "name": "OTHER THAN PERSONAL SERVICES",
+          "value": 1238.43,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 4,
+            "avg_amount": 309.6075,
+            "parent_agency": "DCASDIVISION OF MUNICIPAL SUPPLY SERVICE"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 4,
+        "avg_amount": 309.6075,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "SUPREME COURT - 1ST JUD DIST",
+      "value": 7.0,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 7.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 3.5,
+            "parent_agency": "SUPREME COURT - 1ST JUD DIST"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 2,
+        "avg_amount": 3.5,
+        "fiscal_year": 2025
+      }
+    },
+    {
+      "name": "SUPREME COURT - APPELLATE DIV",
+      "value": 7.0,
+      "children": [
+        {
+          "name": "Non-Applicable Department",
+          "value": 7.0,
+          "budget_code": null,
+          "metadata": {
+            "total_records": 2,
+            "avg_amount": 3.5,
+            "parent_agency": "SUPREME COURT - APPELLATE DIV"
+          }
+        }
+      ],
+      "metadata": {
+        "total_records": 2,
+        "avg_amount": 3.5,
+        "fiscal_year": 2025
+      }
+    }
+  ]
+};

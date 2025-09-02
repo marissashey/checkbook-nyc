@@ -9,7 +9,17 @@ class DataManager {
 
   async loadTreemapData() {
     try {
-      const response = await fetch("treemap_data_FY2025.json");
+      // Use embedded data instead of fetching
+      if (typeof TREEMAP_DATA_FY2025 !== 'undefined') {
+        this.data_fy25 = TREEMAP_DATA_FY2025;
+        this.prepareDepartmentData();
+        this.dataLoaded = true;
+        document.querySelector(".loading").style.display = "none";
+        return;
+      }
+      
+      // Fallback to file loading if embedded data not available
+      const response = await fetch("spending_data_FY2025.json");
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 
       this.data_fy25 = await response.json();
@@ -17,18 +27,8 @@ class DataManager {
       this.dataLoaded = true;
       document.querySelector(".loading").style.display = "none";
     } catch (error) {
-      try {
-        const response2 = await fetch("data/visualizations/treemap_data_FY2025.json");
-        if (response2.ok) {
-          this.data_fy25 = await response2.json();
-          this.prepareDepartmentData();
-          this.dataLoaded = true;
-          document.querySelector(".loading").style.display = "none";
-          return;
-        }
-      } catch (error2) {}
       document.querySelector(".loading").innerHTML = 
-        `Error loading data<br><small>Please run a local server:<br>python3 -m http.server 8000<br>Then visit http://localhost:8000</small>`;
+        `Error loading data<br><small>Data failed to load. Please check console for details.</small>`;
     }
   }
 
