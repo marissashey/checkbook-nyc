@@ -5,27 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NYC Spending Explorer - FY2025</title>
 
-    <!-- Fonts -->
+    <!-- fonts -->
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Barlow+Condensed:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
 
-    <!-- Styles -->
+    <!-- styles -->
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/visualization.css" />
   </head>
 
   <body>
     <div id="canvas-container" class="main-view">
-      <!-- Header -->
+      <!-- header -->
       <div class="header">
         <div class="title">
           An Interactive Visualization of NYC Spending Data
         </div>
       </div>
 
-      <!-- Navigation Buttons -->
+      <!-- navigation buttons -->
       <div class="nav-buttons">
         <button
           class="nav-btn reset-btn"
@@ -42,7 +42,7 @@
         >
       </div>
 
-      <!-- Hover Tooltip -->
+      <!-- hover tooltip -->
       <div class="hover-tooltip" id="hover-tooltip">
         <div class="tooltip-value"></div>
         <div class="tooltip-percentage"></div>
@@ -50,11 +50,11 @@
         <div class="tooltip-scroll-hint"></div>
       </div>
 
-      <!-- Loading State -->
+      <!-- loading state -->
       <div class="loading">Loading spending data...</div>
     </div>
 
-    <!-- About Section -->
+    <!-- about section -->
     <div class="info">
       <div class="about-section">
         <div class="about-title" id="about-section">About</div>
@@ -144,7 +144,7 @@
         </div>
       </div>
 
-      <!-- Credits -->
+      <!-- credits -->
       <div class="credits">
         <div class="credits-header">
           <div class="data-attribution">
@@ -211,13 +211,13 @@
       </div>
     </div>
 
-    <!-- Version Info -->
+    <!-- version info -->
     <div class="version-info">Version 1.1</div>
 
-    <!-- Scroll Indicator -->
+    <!-- scroll indicator -->
     <div class="scroll-indicator" id="scroll-indicator">Scroll for more</div>
 
-    <!-- Scripts -->
+    <!-- scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
     <script src="js/utils.js"></script>
     <script src="js/data-manager.js"></script>
@@ -225,7 +225,7 @@
     <script src="js/interactions.js"></script>
 
     <script>
-      // Initialize the application
+      // initialize the application
       let dataManager;
       let vizCore;
       let interactionHandler;
@@ -235,7 +235,7 @@
         vizCore = new VisualizationCore(dataManager);
         interactionHandler = new InteractionHandler(vizCore);
 
-        // Make globally accessible
+        // make globally accessible
         window.vizCore = vizCore;
         window.interactionHandler = interactionHandler;
 
@@ -250,7 +250,7 @@
         vizCore.windowResized();
       }
 
-      // Initialize tooltip handlers when DOM loads
+      // initialize tooltip handlers when DOM loads
       document.addEventListener("DOMContentLoaded", function () {
         initializeTooltipHandlers();
       });

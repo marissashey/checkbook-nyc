@@ -1,4 +1,4 @@
-// NYC Spending Data Management
+// nyc spending data management
 class DataManager {
   constructor() {
     this.data_fy25 = null;
@@ -28,7 +28,7 @@ class DataManager {
         }
       } catch (error2) {}
       document.querySelector(".loading").innerHTML = 
-        `Error loading data<br><small>Please run a local server:<br>python3 -m http.server 8000<br>Then visit http://localhost:8000/viz.html</small>`;
+        `Error loading data<br><small>Please run a local server:<br>python3 -m http.server 8000<br>Then visit http://localhost:8000</small>`;
     }
   }
 
@@ -165,7 +165,7 @@ class DataManager {
   }
 }
 
-// Pastel color palette for departments
+// pastel color palette for departments
 const departmentColors = [
   [255, 182, 193], [255, 160, 122], [152, 216, 200], [247, 220, 111],
   [187, 143, 206], [133, 193, 226], [248, 183, 57], [130, 224, 170],

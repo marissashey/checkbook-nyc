@@ -1,18 +1,18 @@
-// NYC Spending Visualization - User Interactions
+// nyc spending visualization - user interactions
 
 class InteractionHandler {
   constructor(vizCore) {
     this.vizCore = vizCore;
   }
 
-  // Helper function to test if mouse position hits a segment
+  // helper function to test if mouse position hits a segment
   isSegmentHit(mx, my, segment, offsetX = 0, offsetY = 0, scale = 1) {
     const segX = segment.x * scale + offsetX;
     const segY = (segment.y || 0) * scale + offsetY;
     const segWidth = segment.width * scale;
     const segHeight = this.vizCore.BOX_HEIGHT * scale;
     
-    // Extended hit area to include the TOP of the 3D box
+    // extended hit area to include the top of the 3d box
     const depth = 30 * scale;
     const angle = 0.5;
     const topExtension = depth * angle;
@@ -25,7 +25,7 @@ class InteractionHandler {
     );
   }
 
-  // Helper function to handle hover actions
+  // helper function to handle hover actions
   handleSegmentHover(segmentIndex, segment, context, inMinimap = false) {
     this.vizCore.hoveredSegment = segmentIndex;
     this.vizCore.hoveredInMinimap = inMinimap;
@@ -39,7 +39,7 @@ class InteractionHandler {
   mouseMoved() {
     if (!this.vizCore.dataManager.dataLoaded) return;
 
-    // Check if mouse is over tooltip - if so, don't hide it
+    // check if mouse is over tooltip - if so, don't hide it
     const tooltip = document.getElementById("hover-tooltip");
     if (tooltip.classList.contains("visible")) {
       const rect = tooltip.getBoundingClientRect();
@@ -54,7 +54,7 @@ class InteractionHandler {
     this.vizCore.hoveredSegment = null;
     this.vizCore.hoveredInMinimap = false;
 
-    // Check main view segments
+    // check main view segments
     if (this.vizCore.currentView === "citywide") {
       for (let index = 0; index < this.vizCore.citywideSegments.length; index++) {
         const segment = this.vizCore.citywideSegments[index];
@@ -65,7 +65,7 @@ class InteractionHandler {
       }
     }
 
-    // Check miniature citywide when in department view
+    // check miniature citywide when in department view
     if (this.vizCore.currentView === "department" && this.vizCore.citywideSegments) {
       const cornerMx = mx - this.vizCore.citywidePos.x;
       const cornerMy = my - this.vizCore.citywidePos.y;
@@ -79,7 +79,7 @@ class InteractionHandler {
       }
     }
 
-    // Check department view segments
+    // check department view segments
     if (this.vizCore.currentView === "department" && !this.vizCore.hoveredInMinimap) {
       for (let index = 0; index < this.vizCore.segments.length; index++) {
         const segment = this.vizCore.segments[index];
@@ -105,7 +105,7 @@ class InteractionHandler {
     const mx = mouseX - width / 2;
     const my = mouseY - height / 2 - 30; // Account for 30px downward shift of bars
 
-    // When in department view, check minimap first
+    // when in department view, check minimap first
     if (this.vizCore.currentView === "department" && this.vizCore.citywideSegments) {
       const cornerMx = mx - this.vizCore.citywidePos.x;
       const cornerMy = my - this.vizCore.citywidePos.y;
@@ -127,7 +127,7 @@ class InteractionHandler {
       }
     }
 
-    // Check main segments
+    // check main segments
     if (this.vizCore.hoveredSegment !== null && !this.vizCore.hoveredInMinimap) {
       if (this.vizCore.currentView === "citywide") {
         const segment = this.vizCore.citywideSegments[this.vizCore.hoveredSegment];
@@ -142,7 +142,7 @@ class InteractionHandler {
 
         document.getElementById('reset-btn').classList.add('visible');
 
-        // Move to bottom-right, offset from center
+        // move to bottom-right, offset from center
         const miniWidth = this.vizCore.calculateBarWidth("citywide") * 0.7;
         const miniHeight = this.vizCore.BOX_HEIGHT * 0.7;
         const margin = 40;
@@ -183,7 +183,7 @@ class InteractionHandler {
     
     percentageDiv.textContent = `${percentageStr}% of ${contextLabel}`;
     
-    // Add breakdown for "Other" items
+    // add breakdown for "other" items
     if (data.collapsed && data.collapsed.length > 0) {
       let html = "";
       let budgetCodesTotal = 0;
@@ -242,7 +242,7 @@ class InteractionHandler {
   }
 }
 
-// Global p5.js event handlers
+// global p5.js event handlers
 function mouseMoved() {
   if (window.interactionHandler) {
     window.interactionHandler.mouseMoved();

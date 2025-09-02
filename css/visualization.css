@@ -1,6 +1,6 @@
-/* NYC Spending Visualization - Interactive Elements */
+/* nyc spending visualization - interactive elements */
 
-/* Legend and footnotes */
+/* legend and footnotes */
 .legend {
   margin-bottom: 10px;
   padding: 10px;
@@ -21,10 +21,10 @@
 }
 
 .value-display {
-  display: none; /* Removed in favor of hover tooltip */
+  display: none; /* removed in favor of hover tooltip */
 }
 
-/* Hover Tooltip */
+/* hover tooltip */
 .hover-tooltip {
   position: fixed;
   background: rgba(10, 10, 15, 0.95);
@@ -103,7 +103,7 @@
   margin-top: 4px;
 }
 
-/* About Section Specific Styles */
+/* about section specific styles */
 .comparison-table {
   background: none;
   padding: 0;
