@@ -13,3 +13,6 @@ env/
 
 # xml responses
 tmp_xml_responses/
+
+# misc
+.cursorrules

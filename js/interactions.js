@@ -207,9 +207,23 @@ class InteractionHandler {
       
       programs.forEach((item) => {
         const itemValue = (item.value / 1000000000).toFixed(2);
-        const itemPct = item.percentage
-          ? formatPercentage(item.percentage)
-          : formatPercentage((item.value / data.value) * 100);
+        const rawPct = item.percentage || ((item.value / data.value) * 100);
+        
+        // For "Other" tooltips, show more decimal places for small percentages
+        let itemPct;
+        if (data.name && data.name.toLowerCase().includes("other") && rawPct < 0.1) {
+          // Show first non-zero digit: 0.01234% -> 0.012%, 0.001234% -> 0.0012%
+          if (rawPct < 0.001) {
+            itemPct = rawPct.toFixed(4);
+          } else if (rawPct < 0.01) {
+            itemPct = rawPct.toFixed(3);
+          } else {
+            itemPct = rawPct.toFixed(2);
+          }
+        } else {
+          itemPct = formatPercentage(rawPct);
+        }
+        
         html += `<div class="tooltip-breakdown-item">${item.name}: $${itemValue}B (${itemPct}%)</div>`;
       });
       
@@ -227,8 +241,16 @@ class InteractionHandler {
       scrollHintDiv.style.display = "none";
     }
     
-    tooltip.style.left = mouseX + "px";
-    tooltip.style.top = mouseY + "px";
+    // Smart positioning: "Other" tooltips go to the right, others go below
+    if (data.name && data.name.toLowerCase().includes("other")) {
+      // Position to the right for "Other" segments (usually rightmost)
+      tooltip.style.left = (mouseX + 25) + "px";
+      tooltip.style.top = mouseY + "px";
+    } else {
+      // Position below for regular segments (smaller offset than before)
+      tooltip.style.left = (mouseX + 15) + "px";
+      tooltip.style.top = (mouseY + 40) + "px";
+    }
     tooltip.style.pointerEvents = data.collapsed && data.collapsed.length > 0 ? "auto" : "none";
     tooltip.classList.add("visible");
     
